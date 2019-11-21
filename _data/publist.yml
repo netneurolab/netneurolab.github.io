@@ -12,8 +12,8 @@
   description: We use agent-based models to simulate the propagation of misfolded proteins in Parkinson's disease. Our model highlights the joint contribution of local vulnerability and global network architecture in shaping disease course.
   authors: Zheng YQ, Zhang Y, Yau Y, Zeighami Y, Larcher K, Misic B†, Dagher A†
   link:
-    url: https://doi.org/10.1101/449199
-    display: PLoS Biol (in press)
+    url: https://doi.org/10.1371/journal.pbio.3000495
+    display: PLoS Biol (2019)
   highlight: 1
 
 - title: "Brain developmental hierarchy reveals glioblastoma origin and therapeutic targets "
