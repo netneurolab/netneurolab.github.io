@@ -1,3 +1,12 @@
+- title: "Signal propagation via cortical hierarchies"
+  image: 
+  description: 
+  authors: Vazquez-Rodriguez B, Liu ZQ, Hagmann P, Misic B
+  link:
+    url: https://doi.org/10.1101/2020.02.15.950907
+    display: bioRxiv
+  highlight: 1
+
 - title: "Spatial patterning of tissue volume loss in schizophrenia reflects brain network architecture"
   image: epicenter.jpg
   description: Schizophrenia is marked by distributed patterns of tissue volume loss, but what is their origin?  We show that tissue volume loss closely follows connectome architecture.
