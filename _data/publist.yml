@@ -6,6 +6,15 @@
     url: https://doi.org/10.1101/2020.03.05.979526
     display: bioRxiv (2020)
   highlight: 0
+
+- title: "Latent clinical-anatomical dimensions of schizophrenia"
+  image: 
+  description: 
+  authors: Kirschner M, Shafiei G, Markello RD, Talpalaru A, Makowski C, Devenyi GA, Paquola C, Bernhardt BC, Chakravarty MM, Dagher A, Misic B
+  link:
+    url: https://doi.org/10.1101/2020.03.25.20040592
+    display: medRxiv (2020)
+  highlight: 0
   
 - title: "Linking structure and function in macroscale brain networks"
   image: slide_hierarchy.jpg
