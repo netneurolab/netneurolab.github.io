@@ -19,7 +19,7 @@
 - title: "Linking structure and function in macroscale brain networks"
   image: slide_hierarchy.jpg
   description: We explore structure-function relationships in brain networks from the perspective of microscale annotations, hierarchies and neuromodulation.
-  authors: Suarez LE, Markello RD, Misic B
+  authors: Suarez LE, Markello RD, Betzel RF, Misic B
   link:
     url: https://doi.org/10.1016/j.tics.2020.01.008
     display: Trends Cogn Sci (2020)
@@ -66,8 +66,8 @@
   description: 
   authors: Vos de Wael R, Benkarim O, Paquola C, Lariviere S, Royer J, Tavakol S, Xu T, Hong SJ, Valk S, Misic B, Milham M, Margulies DS, Smallwood J, Benhardt BC
   link:
-    url: https://doi.org/10.1101/761460
-    display: bioRxiv (2019)
+    url: https://doi.org/10.1038/s42003-020-0794-7
+    display: Commun Biol (2020)
   highlight: 0
 
 - title: "Gradients of structure-function tethering across neocortex"
