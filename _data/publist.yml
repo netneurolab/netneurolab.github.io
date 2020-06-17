@@ -16,6 +16,15 @@
     display: medRxiv (2020)
   highlight: 0
   
+- title: "Brain developmental hierarchy reveals glioblastoma origin and therapeutic targets "
+  image: 
+  description: 
+  authors: Couturier CP, Ayyadhury S, Le PU, Monglong J, Allache R, Amin S, Riva G, Bourgey M, Lee C, Yan X, Wang D, Yong W, Guiot MC, Misic B, Antel J, Bourque G, Ragoussis J, Petrecca K
+  link:
+    url: https://doi.org/10.1101/449439
+    display: Nat Commun (2020)
+  highlight: 0
+  
 - title: "Linking structure and function in macroscale brain networks"
   image: slide_hierarchy.jpg
   description: We explore structure-function relationships in brain networks from the perspective of microscale annotations, hierarchies and neuromodulation.
@@ -43,24 +52,6 @@
     display: Biol Psychiat (2020)
   highlight: 1
 
-- title: "Connectome architecture, gene expression and functional co-activation shape the spread of neurodegenerative disease"
-  image: schematic.jpg
-  description: We use agent-based models to simulate the propagation of misfolded proteins in Parkinson's disease. Our model highlights the joint contribution of local vulnerability and global network architecture in shaping disease course.
-  authors: Zheng YQ, Zhang Y, Yau Y, Zeighami Y, Larcher K, Misic B†, Dagher A†
-  link:
-    url: https://doi.org/10.1371/journal.pbio.3000495
-    display: PLoS Biol (2019)
-  highlight: 1
-
-- title: "Brain developmental hierarchy reveals glioblastoma origin and therapeutic targets "
-  image: 
-  description: 
-  authors: Couturier CP, Ayyadhury S, Le PU, Monglong J, Allache R, Amin S, Riva G, Bourgey M, Lee C, Yan X, Wang D, Yong W, Guiot MC, Misic B, Antel J, Bourque G, Ragoussis J, Petrecca K
-  link:
-    url: https://doi.org/10.1101/449439
-    display: bioRxiv (2019)
-  highlight: 0
-
 - title: "BrainSpace: a toolbox for the analysis of macroscale gradients in neuroimaging and connectomics datasets"
   image: 
   description: 
@@ -69,6 +60,15 @@
     url: https://doi.org/10.1038/s42003-020-0794-7
     display: Commun Biol (2020)
   highlight: 0
+
+- title: "Connectome architecture, gene expression and functional co-activation shape the spread of neurodegenerative disease"
+  image: schematic.jpg
+  description: We use agent-based models to simulate the propagation of misfolded proteins in Parkinson's disease. Our model highlights the joint contribution of local vulnerability and global network architecture in shaping disease course.
+  authors: Zheng YQ, Zhang Y, Yau Y, Zeighami Y, Larcher K, Misic B†, Dagher A†
+  link:
+    url: https://doi.org/10.1371/journal.pbio.3000495
+    display: PLoS Biol (2019)
+  highlight: 1
 
 - title: "Gradients of structure-function tethering across neocortex"
   image: rsq_main.png
