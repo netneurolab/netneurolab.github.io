@@ -64,18 +64,10 @@
   education2:
   education3:
   education4:
-
-- name: David Benrimoh
-  photo: david.jpg
-  info: MSc student
-  email: david.benrimoh@mail.mcgill.ca
-  number_educ: 0
-  education1:
-  education2:
-
+  
 - name: Justine Hansen
   photo: justine.jpg
-  info: BSc student
+  info: MSc student
   email: justine.hansen@mail.mcgill.ca
   number_educ: 0
   education1:
