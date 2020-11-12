@@ -1,3 +1,21 @@
+- title: "Learning function from structure in neuromorphic networks"
+  image: 
+  description: 
+  authors: Suarez LE, Richards BA, Lajoie G, Misic B
+  link:
+    url: https://doi.org/10.1101/2020.11.10.350876
+    display: bioRxiv (2020)
+  highlight: 0
+  
+- title: "Network communication in the brain"
+  image: 
+  description: 
+  authors: Graham D, Avena-Koenigsberger A, Misic B
+  link:
+    url: https://doi.org/10.1162/netn_e_00167
+    display: Net Neurosci (2020)
+  highlight: 0
+
 - title: "Multiscale communication in cortico-cortical networks"
   image: 
   description: 
