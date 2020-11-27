@@ -1,3 +1,30 @@
+- title: "Understanding the impact of preprocessing pipelines on neuroimaging cortical surface analysis"
+  image: 
+  description: 
+  authors: Bhagwat N, Barry A, Dickie EW, Brown ST, Devenyi GA, Hatano K, DuPre E, Dagher A, Chakravarty MM, Greenwood CT, Misic B, Kennedy DN, Poline JB
+  link:
+    url: https://doi.org/10.1101/2020.05.22.100180
+    display: GigaScience (in press)
+  highlight: 0
+  
+- title: "The R1-weighted connectome: complementing brain networks with a myelin-sensitive measure"
+  image: 
+  description: 
+  authors: Boshkovski T, Kocarev L, Cohen-Adad J, Misic B, Lehericy S, Stikov N, Mancini M
+  link:
+    url: https://doi.org/10.1101/2020.08.06.237941
+    display: Net Neurosci (in press)
+  highlight: 0
+  
+- title: "Propofol-induced alterations in brain connectivity reflect parvalbumin interneuron distribution in the human cortex"
+  image: 
+  description: 
+  authors: Craig MM, Misic B, Pappas I, Adapa R, Menon VK, Stamatakis EA
+  link:
+    url: 
+    display: Br J Anaesth (in press)
+  highlight: 0
+
 - title: "Learning function from structure in neuromorphic networks"
   image: 
   description: 
@@ -87,15 +114,6 @@
   link:
     url: https://doi.org/10.1093/schbul/sbaa097
     display: Schiz Bull (2020)
-  highlight: 0
-
-- title: "Understanding the impact of preprocessing pipelines on neuroimaging cortical surface analysis"
-  image: 
-  description: 
-  authors: Bhagwat N, Barry A, Dickie EW, Brown ST, Devenyi GA, Hatano K, DuPre E, Dagher A, Chakravarty MM, Greenwood CT, Misic B, Kennedy DN, Poline JB
-  link:
-    url: https://doi.org/10.1101/2020.05.22.100180
-    display: GigaScience (2021)
   highlight: 0
   
 - title: "Single-cell RNA-seq reveals that glioblastoma recapitulates a normal neurodevelopmental hierarchy"
