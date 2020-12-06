@@ -1,6 +1,6 @@
 - name: Bratislav Misic
   photo: bratislav.jpg
-  info: Assistant Professor
+  info: Assistant Professor & Canada Research Chair
   email: bratislav.misic@mcgill.ca
   number_educ: 0
   education1:
@@ -11,14 +11,14 @@
 
 - name: Golia Shafiei
   photo: golia.jpg
-  info: PhD student
+  info: NSERC PhD student
   email: golia.shafiei@mail.mcgill.ca
   number_educ: 0
   education1: 
 
 - name: Laura Suarez
   photo: laura.jpg
-  info: PhD student
+  info: FRQNT PhD student
   email: laura.suarez@mail.mcgill.ca
   number_educ: 0
   education1: 
@@ -28,7 +28,7 @@
 
 - name: Ross Markello
   photo: ross.jpg
-  info: PhD student
+  info: CONP PhD student
   email: ross.markello@mail.mcgill.ca
   number_educ: 0
   education1:
@@ -47,7 +47,7 @@
 
 - name: Vincent Bazinet
   photo: vince.jpg
-  info: MSc student
+  info: FRQNT PhD student
   email: vincent.bazinet@mail.mcgill.ca
   number_educ: 0
   education1:
