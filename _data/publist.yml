@@ -1,3 +1,12 @@
+- title: "Multimodal phenotypic axes of Parkinson's disease"
+  image: 
+  description: 
+  authors: Markello RD, Shafiei G, Tremblay C, Postuma RB, Dagher A, Misic B
+  link:
+    url: https://doi.org/10.1038/s41531-020-00144-9
+    display: npj Parkinsons Dis (2021)
+  highlight: 0
+
 - title: "Topographic gradients of intrinsic dynamics across neocortex"
   image: 
   description: 
@@ -140,15 +149,6 @@
   authors: Hansen JY, Markello RD, Vogel JW, Seidlitz J, Bzdok D, Misic B
   link:
     url: https://doi.org/10.1101/2020.07.16.203026
-    display: bioRxiv (2020)
-  highlight: 0
-
-- title: "Multimodal phenotypic axes of Parkinson's disease"
-  image: 
-  description: 
-  authors: Markello RD, Shafiei G, Tremblay C, Postuma RB, Dagher A, Misic B
-  link:
-    url: https://doi.org/10.1101/2020.03.05.979526
     display: bioRxiv (2020)
   highlight: 0
 
