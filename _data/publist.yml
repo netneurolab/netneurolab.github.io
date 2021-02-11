@@ -25,6 +25,15 @@
     display: Sci Rep (2021)
   highlight: 0
 
+- title: "Understanding the impact of preprocessing pipelines on neuroimaging cortical surface analysis"
+  image: 
+  description: 
+  authors: Bhagwat N, Barry A, Dickie EW, Brown ST, Devenyi GA, Hatano K, DuPre E, Dagher A, Chakravarty MM, Greenwood CT, Misic B, Kennedy DN, Poline JB
+  link:
+    url: https://doi.org/10.1093/gigascience/giaa155
+    display: GigaScience (2021)
+  highlight: 0
+
 - title: "Topographic gradients of intrinsic dynamics across neocortex"
   image: 
   description: 
@@ -58,7 +67,7 @@
   authors: Barry A, Bhagwat N, Misic B, Poline JB, Greenwood CT
   link:
     url: https://doi.org/10.1080/03610926.2020.1841793
-    display: Commun Stat (in press)
+    display: Commun Stat (2020)
   highlight: 0
   
 - title: "A prodromal brain‐clinical pattern of cognition in synucleinopathies"
@@ -67,16 +76,7 @@
   authors: Rahayel S, Postuma RB, Montplaisir J, Misic B, Tremblay C, Yao C, Gaubert M, Carrier J, Monchi O, Blanc F, Chouinard F, Panisset M, Dagher A, Gagnon JF
   link:
     url: https://doi.org/10.1002/ana.25962
-    display: Ann Neurol (in press)
-  highlight: 0
-
-- title: "Understanding the impact of preprocessing pipelines on neuroimaging cortical surface analysis"
-  image: 
-  description: 
-  authors: Bhagwat N, Barry A, Dickie EW, Brown ST, Devenyi GA, Hatano K, DuPre E, Dagher A, Chakravarty MM, Greenwood CT, Misic B, Kennedy DN, Poline JB
-  link:
-    url: https://doi.org/10.1101/2020.05.22.100180
-    display: GigaScience (in press)
+    display: Ann Neurol (2020)
   highlight: 0
   
 - title: "The R1-weighted connectome: complementing brain networks with a myelin-sensitive measure"
@@ -84,8 +84,8 @@
   description: 
   authors: Boshkovski T, Kocarev L, Cohen-Adad J, Misic B, Lehericy S, Stikov N, Mancini M
   link:
-    url: https://doi.org/10.1101/2020.08.06.237941
-    display: Net Neurosci (in press)
+    url: https://doi.org/10.1162/netn_a_00179
+    display: Net Neurosci (2021)
   highlight: 0
   
 - title: "Propofol-induced alterations in brain connectivity reflect parvalbumin interneuron distribution in the human cortex"
@@ -93,8 +93,8 @@
   description: 
   authors: Craig MM, Misic B, Pappas I, Adapa R, Menon VK, Stamatakis EA
   link:
-    url: 
-    display: Br J Anaesth (in press)
+    url: https://doi.org/10.1016/j.bja.2020.11.035
+    display: Br J Anaesth (2020)
   highlight: 0
 
 - title: "Microcircuit underpinnings and macroscale functional implications of temporal lobe connectivity gradients"
