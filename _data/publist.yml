@@ -1,3 +1,12 @@
+- title: "Mapping gene transcription and neurocognition across human neocortex"
+  image: 
+  description: 
+  authors: Hansen JY, Markello RD, Vogel JW, Seidlitz J, Bzdok D, Misic B
+  link:
+    url: https://doi.org/10.1038/s41562-021-01082-z
+    display: Nat Hum Behav (2021)
+  highlight: 0
+  
 - title: "An edge-centric model for harmonizing multi-relational network datasets"
   image: 
   description: 
@@ -158,16 +167,6 @@
   link:
     url: https://doi.org/10.1162/netn_a_00159
     display: Net Neurosci (2020)
-  highlight: 0
-
-
-- title: "Molecular signatures of cognition and affect"
-  image: 
-  description: 
-  authors: Hansen JY, Markello RD, Vogel JW, Seidlitz J, Bzdok D, Misic B
-  link:
-    url: https://doi.org/10.1101/2020.07.16.203026
-    display: bioRxiv (2020)
   highlight: 0
 
 - title: "Latent clinical-anatomical dimensions of schizophrenia"
