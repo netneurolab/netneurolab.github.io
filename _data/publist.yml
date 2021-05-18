@@ -1,3 +1,12 @@
+- title: "Early or late exposure to maternal immune activation alters neurodevelopmental trajectories in mice: an integrated neuroimaging, behavioural, and transcriptional study"
+  image: 
+  description: 
+  authors: Guma E, Bordignon P, Devenyi GA, Gallino D, Anastassiadis C, Cvetkovska V, Barry A, Snook E, Germann J, Greenwood CT, Misic B, Bagot RC, Chakravarty MM
+  link:
+    url: https://doi.org/10.1016/j.biopsych.2021.03.017
+    display: Biol Psychiat (2021)
+  highlight: 0
+
 - title: "Comparing spatial null models for brain maps"
   image: 
   description: 
@@ -67,15 +76,6 @@
   authors: Kiar G, de Oliveira Castro P, Petit E, Rokem A, Varoquaux G, Misic B, Glatard T, Evans AC
   link:
     url: https://doi.org/10.1101/2020.10.15.341495
-    display: bioRxiv (2020)
-  highlight: 0
-  
-- title: "Early or late exposure to maternal immune activation alters neurodevelopmental trajectories in mice: an integrated neuroimaging, behavioural, and transcriptional study"
-  image: 
-  description: 
-  authors: Guma E, Bordignon P, Devenyi GA, Gallino D, Anastassiadis C, Cvetkovska V, Barry A, Snook E, Germann J, Greenwood CT, Misic B, Bagot RC, Chakravarty MM
-  link:
-    url: https://doi.org/10.1101/2020.12.03.406454
     display: bioRxiv (2020)
   highlight: 0
 
