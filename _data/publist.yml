@@ -1,19 +1,19 @@
 - title: "Local structure-function relationships in brain networks across the human lifespan"
   image: 
   description: 
-  authors: Barry A, Bhagwat N, Misic B, Poline JB, Greenwood CMT
+  authors: Esfahlani FZ, Faskowitz J, Slack J, Misic B, Betzel RF
   link:
-    url: https://arxiv.org/abs/2105.12286
-    display: arXiv (2021)
+    url: https://doi.org/10.1101/2021.05.23.445128
+    display: bioRxiv (2021)
   highlight: 0
 
 - title: "An algorithm-based multiple detection influence measure for high dimensional regression using expectile"
   image: 
   description: 
-  authors: Esfahlani FZ, Faskowitz J, Slack J, Misic B, Betzel RF
+  authors: Barry A, Bhagwat N, Misic B, Poline JB, Greenwood CMT
   link:
-    url: https://doi.org/10.1101/2021.05.23.445128
-    display: bioRxiv (2021)
+    url: https://arxiv.org/abs/2105.12286
+    display: arXiv (2021)
   highlight: 0
 
 - title: "Early or late exposure to maternal immune activation alters neurodevelopmental trajectories in mice: an integrated neuroimaging, behavioural, and transcriptional study"
