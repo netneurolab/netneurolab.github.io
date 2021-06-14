@@ -6,6 +6,15 @@
     url: https://doi.org/10.1101/2021.05.23.445128
     display: bioRxiv (2021)
   highlight: 0
+  
+- title: "Schizophrenia polygenic risk links to multiscale cortical organization"
+  image: 
+  description: 
+  authors: Kirschner M, Paquola C, Khundrakpam BS, Vainik U, Bhutani N, Hodzic-Santor B, Al-Sharif N, Misic B, Bernhardt BC, Evans AC, Dagher A
+  link:
+    url: https://doi.org/10.1101/2021.06.13.448243
+    display: bioRxiv (2021)
+  highlight: 0
 
 - title: "An algorithm-based multiple detection influence measure for high dimensional regression using expectile"
   image: 
