@@ -1,3 +1,12 @@
+- title: "Structural connectivity gradients of the temporal lobe serve as multiscale axes of brain organization and cortical evolution"
+  image: 
+  description: 
+  authors: Vos de Wael R, Royer J, Tavakol S, Wang Y, Paquola C, Benkarim O, Eichert N, Lariviere S, Misic B, Smallwood J, Valk S, Bernhardt BC
+  link:
+    url: https://doi.org/10.1093/cercor/bhab149
+    display: Cereb Cortex (2021)
+  highlight: 0
+
 - title: "Local structure-function relationships in brain networks across the human lifespan"
   image: 
   description: 
@@ -158,15 +167,6 @@
   link:
     url: https://doi.org/10.1016/j.bja.2020.11.035
     display: Br J Anaesth (2020)
-  highlight: 0
-
-- title: "Microcircuit underpinnings and macroscale functional implications of temporal lobe connectivity gradients"
-  image: 
-  description: 
-  authors: Vos de Wael R, Royer J, Tavakol S, Wang Y, Paquola C, Benkarim O, Eichert N, Lariviere S, Misic B, Smallwood J, Valk S, Bernhardt BC
-  link:
-    url: https://doi.org/10.1101/2020.11.26.400382
-    display: bioRxiv (2020)
   highlight: 0
 
 - title: "Learning function from structure in neuromorphic networks"
