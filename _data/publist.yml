@@ -1,4 +1,4 @@
-- title: "Standardizing orkflows in imaging transcriptomics with the abagen toolbox"
+- title: "Standardizing workflows in imaging transcriptomics with the abagen toolbox"
   image: 
   description: 
   authors: Markello RD, Arnatkeviciute A, Poline JB, Fulcher BD, Fornito A, Misic B
@@ -23,6 +23,15 @@
   link:
     url: https://doi.org/10.1093/cercor/bhab149
     display: Cereb Cortex (2021)
+  highlight: 0
+  
+- title: "Sex differences in age- and episodic memory-related effects on task-based functional connectivity"
+  image: 
+  description: 
+  authors: Subramaniapillai S, Rajagopal S, Ankudowich E, Pasvanis S, Misic B, Rajah MN
+  link:
+    url: https://doi.org/10.1101/2021.07.27.453878
+    display: bioRxiv (2021)
   highlight: 0
 
 - title: "Local structure-function relationships in brain networks across the human lifespan"
