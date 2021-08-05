@@ -1,3 +1,12 @@
+- title: "Learning function from structure in neuromorphic networks"
+  image: 
+  description: 
+  authors: Suarez LE, Richards BA, Lajoie G, Misic B
+  link:
+    url: https://www.nature.com/articles/s42256-021-00376-1
+    display: Nat Mach Intell (2021)
+  highlight: 0
+
 - title: "Standardizing workflows in imaging transcriptomics with the abagen toolbox"
   image: 
   description: 
@@ -194,15 +203,6 @@
   link:
     url: https://doi.org/10.1016/j.bja.2020.11.035
     display: Br J Anaesth (2020)
-  highlight: 0
-
-- title: "Learning function from structure in neuromorphic networks"
-  image: 
-  description: 
-  authors: Suarez LE, Richards BA, Lajoie G, Misic B
-  link:
-    url: https://doi.org/10.1101/2020.11.10.350876
-    display: bioRxiv (2020)
   highlight: 0
   
 - title: "Network communication in the brain"
