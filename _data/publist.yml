@@ -1,3 +1,12 @@
+- title: "Multiscale communication in cortico-cortical networks"
+  image: 
+  description: 
+  authors: Bazinet V, Vos de Wael R, Hagmann P, Bernhardt BC, Misic B
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2021.118546
+    display: NeuroImage (2021)
+  highlight: 0
+
 - title: "Global network structure and local transcriptomic vulnerability shape atrophy in sporadic and genetic behavioral variant frontotemporal dementia"
   image: 
   description: 
@@ -221,15 +230,6 @@
   link:
     url: https://doi.org/10.1162/netn_e_00167
     display: Net Neurosci (2020)
-  highlight: 0
-
-- title: "Multiscale communication in cortico-cortical networks"
-  image: 
-  description: 
-  authors: Bazinet V, Vos de Wael R, Hagmann P, Bernhardt BC, Misic B
-  link:
-    url: https://doi.org/10.1101/2020.10.02.323030
-    display: bioRxiv (2020)
   highlight: 0
 
 - title: "Signal diffusion along connectome gradients and inter-hub routing differentially contribute to dynamic human brain function"
