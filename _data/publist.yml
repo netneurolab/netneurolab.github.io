@@ -1,9 +1,28 @@
+- title: "Mapping neurotransmitter systems to the structural and functional organization of the human neocortex"
+  image: 
+  description: 
+  authors: Hansen JY, Shafiei G, Markello RD, ..., Misic B
+  link:
+    url: https://doi.org/10.1101/2021.10.28.466336
+    display: bioRxiv (2021)
+  highlight: 0
+
 - title: "Benchmarking functional connectivity by the structure and geometry of the human brain"
   image: 
   description: 
   authors: Liu ZQ, Betzel RF, Misic B
   link:
     url: https://doi.org/10.1101/2021.10.12.464110
+    display: bioRxiv (2021)
+  highlight: 0
+
+- title: "A Riemannian approach to predicting brain function from the structural
+connectome"
+  image: 
+  description: 
+  authors: Benkarim O, Paquola C, Park BY, Royer J, Rodriguez-Cruces R, Vos de Wael R, Misic B, Piella G, Bernhardt B
+  link:
+    url: https://doi.org/10.1101/2021.10.27.465906
     display: bioRxiv (2021)
   highlight: 0
 
