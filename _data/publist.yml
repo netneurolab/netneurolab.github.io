@@ -1,3 +1,12 @@
+- title: "Standardizing workflows in imaging transcriptomics with the abagen toolbox"
+  image: 
+  description: 
+  authors: Markello RD, Arnatkeviciute A, Poline JB, Fulcher BD, Fornito A, Misic B
+  link:
+    url: https://doi.org/10.7554/eLife.72129
+    display: eLife (2021)
+  highlight: 0
+
 - title: "Mapping neurotransmitter systems to the structural and functional organization of the human neocortex"
   image: 
   description: 
@@ -87,15 +96,6 @@ connectome"
   link:
     url: https://www.nature.com/articles/s42256-021-00376-1
     display: Nat Mach Intell (2021)
-  highlight: 0
-
-- title: "Standardizing workflows in imaging transcriptomics with the abagen toolbox"
-  image: 
-  description: 
-  authors: Markello RD, Arnatkeviciute A, Poline JB, Fulcher BD, Fornito A, Misic B
-  link:
-    url: https://doi.org/10.1101/2021.07.08.451635
-    display: bioRxiv (2021)
   highlight: 0
 
 - title: "Time-resolved structure-function coupling in human brain networks"
