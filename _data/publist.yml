@@ -1,3 +1,13 @@
+- title: "Brain atrophy progression in Parkinson’s disease is shaped by connectivity and local vulnerability"
+  image: 
+  description: 
+  authors: Tremblay C, Rahayel S, Vo A, Morys F, Shafiei G, Markello RD, Gan-Or Z, Misic B, Dagher A
+  link:
+    url: https://doi.org/10.1093/braincomms/fcab269
+    display: Brain Communications (2021)
+  highlight: 0
+
+
 - title: "Standardizing workflows in imaging transcriptomics with the abagen toolbox"
   image: 
   description: 
@@ -150,15 +160,6 @@ connectome"
   link:
     url: https://doi.org/10.1101/2021.06.13.448243
     display: bioRxiv (2021)
-  highlight: 0
-
-- title: "Progression of brain atrophy in Parkinson’s disease is shaped by connectome and local vulnerability"
-  image: 
-  description: 
-  authors: Tremblay C, Rahayel S, Vo A, Morys F, Shafiei G, Markello RD, Gan-Or Z, Misic B, Dagher A
-  link:
-    url: https://doi.org/10.1101/2021.06.08.21258321 
-    display: medRxiv (2021)
   highlight: 0
 
 - title: "An algorithm-based multiple detection influence measure for high dimensional regression using expectile"
