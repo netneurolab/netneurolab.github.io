@@ -1,3 +1,12 @@
+- title: "Benchmarking functional connectivity by the structure and geometry of the human brain"
+  image: 
+  description: 
+  authors: Liu ZQ, Betzel RF, Misic B
+  link:
+    url: https://doi.org/10.1162/netn_a_00236
+    display: Net Neurosci (2022)
+  highlight: 0
+
 - title: "Molecular and connectomic vulnerability shape cross-disorder cortical abnormalities"
   image: 
   description: 
@@ -97,16 +106,7 @@
     url: https://doi.org/10.1101/2021.10.28.466336
     display: bioRxiv (2021)
   highlight: 0
-
-- title: "Benchmarking functional connectivity by the structure and geometry of the human brain"
-  image: 
-  description: 
-  authors: Liu ZQ, Betzel RF, Misic B
-  link:
-    url: https://doi.org/10.1101/2021.10.12.464110
-    display: bioRxiv (2021)
-  highlight: 0
-
+  
 - title: "A Riemannian approach to predicting brain function from the structural
 connectome"
   image: 
