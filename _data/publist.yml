@@ -1,3 +1,12 @@
+- title: "Network structure and transcriptomic vulnerability shape atrophy in frontotemporal dementia"
+  image: 
+  description: 
+  authors: Shafiei G, Bazinet V, Dadar M, Manera AL, Collins DL, Dagher A, FTLDNI, GENFI, Misic B, Ducharme S
+  link:
+    url: https://doi.org/10.1093/brain/awac069
+    display: Brain (2022)
+  highlight: 0
+
 - title: "Benchmarking functional connectivity by the structure and geometry of the human brain"
   image: 
   description: 
@@ -160,15 +169,6 @@ connectome"
   link:
     url: https://doi.org/10.1016/j.neuroimage.2021.118546
     display: NeuroImage (2021)
-  highlight: 0
-
-- title: "Global network structure and local transcriptomic vulnerability shape atrophy in sporadic and genetic behavioral variant frontotemporal dementia"
-  image: 
-  description: 
-  authors: Shafiei G, Bazinet V, Dadar M, Manera AL, Collins DL, Dagher A, FTLDNI, GENFI, Misic B, Ducharme S
-  link:
-    url: https://doi.org/10.1101/2021.08.24.457538
-    display: bioRxiv (2021)
   highlight: 0
 
 - title: "Learning function from structure in neuromorphic networks"
