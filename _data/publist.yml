@@ -1,3 +1,12 @@
+- title: "Brain charts for the human lifespan"
+  image: 
+  description: 
+  authors: Bethlehem RAI, Seidlitz J, White SR, et al.
+  link:
+    url: https://doi.org/10.1038/s41586-022-04554-y
+    display: Nature (2022)
+  highlight: 0
+
 - title: "A connectomics-based taxonomy of mammals"
   image: 
   description: 
@@ -222,15 +231,6 @@ connectome"
   authors: Esfahlani FZ, Faskowitz J, Slack J, Misic B, Betzel RF
   link:
     url: https://doi.org/10.1101/2021.05.23.445128
-    display: bioRxiv (2021)
-  highlight: 0
-  
-- title: "Brain charts for the human lifespan"
-  image: 
-  description: 
-  authors: Bethlehem RAI, Seidlitz J, White SR, et al.
-  link:
-    url: https://doi.org/10.1101/2021.06.08.447489
     display: bioRxiv (2021)
   highlight: 0
   
