@@ -314,6 +314,15 @@ connectome"
     url: https://doi.org/10.1093/gigascience/giaa155
     display: GigaScience (2021)
   highlight: 0
+  
+- title: "Numerical uncertainty in analytical pipelines lead to impactful variability in brain networks"
+  image: 
+  description: 
+  authors: Kiar G, Chatelain Y, de Oliveira Castro P, Petit E, Rokem A, Varoquaux G, Misic B, Glatard T, Evans AC
+  link:
+    url: https://doi.org/10.1371/journal.pone.0250755
+    display: PLoS One (2020)
+  highlight: 0
 
 - title: "Topographic gradients of intrinsic dynamics across neocortex"
   image: 
@@ -322,15 +331,6 @@ connectome"
   link:
     url: https://doi.org/10.7554/eLife.62116
     display: eLife (2020)
-  highlight: 0
-
-- title: "Evaluating analytical and biological impliations of observed instabilities in diffusion MRI pipelines"
-  image: 
-  description: 
-  authors: Kiar G, de Oliveira Castro P, Petit E, Rokem A, Varoquaux G, Misic B, Glatard T, Evans AC
-  link:
-    url: https://doi.org/10.1101/2020.10.15.341495
-    display: bioRxiv (2020)
   highlight: 0
 
 - title: "Asymmetric influence measure for high dimensional regression"
