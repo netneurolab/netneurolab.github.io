@@ -1,3 +1,12 @@
+- title: "A Riemannian approach to predicting brain function from the structural connectome"
+  image: 
+  description: 
+  authors: Benkarim O, Paquola C, Park BY, Royer J, Rodriguez-Cruces R, Vos de Wael R, Misic B, Piella G, Bernhardt B
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2022.119299
+    display: NeuroImage (2022)
+  highlight: 0
+
 - title: "Brain atrophy in prodromal synucleinopathy is shaped by structural connectivity and gene expression"
   image: 
   description: 
@@ -176,16 +185,6 @@
   authors: Hansen JY, Shafiei G, Markello RD, ..., Misic B
   link:
     url: https://doi.org/10.1101/2021.10.28.466336
-    display: bioRxiv (2021)
-  highlight: 0
-  
-- title: "A Riemannian approach to predicting brain function from the structural
-connectome"
-  image: 
-  description: 
-  authors: Benkarim O, Paquola C, Park BY, Royer J, Rodriguez-Cruces R, Vos de Wael R, Misic B, Piella G, Bernhardt B
-  link:
-    url: https://doi.org/10.1101/2021.10.27.465906
     display: bioRxiv (2021)
   highlight: 0
 
