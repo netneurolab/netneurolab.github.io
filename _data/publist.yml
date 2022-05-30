@@ -1,3 +1,12 @@
+- title: "Time-resolved structure-function coupling in human brain networks"
+  image: 
+  description: 
+  authors: Liu ZQ, Vazquez-Rodriguez B, Spreng RN, Bernhardt BC, Betzel RF, Misic B
+  link:
+    url: https://doi.org/10.1038/s42003-022-03466-x
+    display: Comms Biol (2022)
+  highlight: 0
+
 - title: "A Riemannian approach to predicting brain function from the structural connectome"
   image: 
   description: 
@@ -231,15 +240,6 @@
   link:
     url: https://www.nature.com/articles/s42256-021-00376-1
     display: Nat Mach Intell (2021)
-  highlight: 0
-
-- title: "Time-resolved structure-function coupling in human brain networks"
-  image: 
-  description: 
-  authors: Liu ZQ, Vazquez-Rodriguez B, Spreng RN, Bernhardt BC, Betzel RF, Misic B
-  link:
-    url: https://doi.org/10.1101/2021.07.08.451672
-    display: bioRxiv (2021)
   highlight: 0
 
 - title: "Structural connectivity gradients of the temporal lobe serve as multiscale axes of brain organization and cortical evolution"
