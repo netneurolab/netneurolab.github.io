@@ -64,3 +64,12 @@
   education1:
   education2:
   education3:
+
+- name: Andrea Luppi
+  photo: andrea.jpg
+  info: Postdoc
+  email: andrea.luppi@mail.mcgill.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
