@@ -1,3 +1,12 @@
+- title: "Human electromagnetic and haemodynamic networks systematically converge in unimodal cortex and diverge in transmodal cortex"
+  image: 
+  description: 
+  authors: Shafiei G, Baillet S, Misic B
+  link:
+    url: https://doi.org/10.1371/journal.pbio.3001735
+    display: PLoS Biology (2022)
+  highlight: 0
+
 - title: "Mapping pharmacologically-induced functional reoragnisation onto the brains neurotransmitter landscape"
   image: 
   description: 
@@ -258,15 +267,6 @@
   link:
     url: https://doi.org/10.1038/s41467-021-25895-8
     display: Nature Communications (2021)
-  highlight: 0
-
-- title: "Mapping electromagnetic networks to haemodynamic networks in the human brain"
-  image: 
-  description: 
-  authors: Shafiei G, Baillet S, Misic B
-  link:
-    url: https://doi.org/10.1101/2021.09.07.458941
-    display: bioRxiv (2021)
   highlight: 0
 
 - title: "Distinct and dissociable EEG networks are associated with recovery of cognitive function following anesthesia-induced unconsciousness"
