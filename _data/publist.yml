@@ -1,3 +1,13 @@
+- title: "Schizophrenia polygenic risk during typical development reflects multiscale cortical organization"
+  image: 
+  description: 
+  authors: Kirschner M, Paquola C, Khundrakpam BS, Vainik U, Bhutani N, Hodzic-Santor B, Al-Sharif N, Misic B, Bernhardt BC, Evans AC, Dagher A
+  link:
+    url: https://doi.org/10.1016/j.bpsgos.2022.08.003
+    display: Biological Psychiatry Global Open Science (2022)
+  highlight: 0
+
+
 - title: "Neurotransmitter transporter/receptor co-expression shares organizational traits with brain structure and function"
   image: 
   description: 
@@ -321,15 +331,6 @@
   authors: Subramaniapillai S, Rajagopal S, Ankudowich E, Pasvanis S, Misic B, Rajah MN
   link:
     url: https://doi.org/10.1101/2021.07.27.453878
-    display: bioRxiv (2021)
-  highlight: 0
-  
-- title: "Schizophrenia polygenic risk links to multiscale cortical organization"
-  image: 
-  description: 
-  authors: Kirschner M, Paquola C, Khundrakpam BS, Vainik U, Bhutani N, Hodzic-Santor B, Al-Sharif N, Misic B, Bernhardt BC, Evans AC, Dagher A
-  link:
-    url: https://doi.org/10.1101/2021.06.13.448243
     display: bioRxiv (2021)
   highlight: 0
 
