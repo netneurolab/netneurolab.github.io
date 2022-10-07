@@ -1,3 +1,21 @@
+- title: "Correspondence between gene expression and neurotransmitter receptor and transporter density in the human brain"
+  image: 
+  description: 
+  authors: Hansen JY, Markello RD, Tuominen L, Nørgaard M, Kuzmin E, Palomero-Gallagher N, Dagher A, Misic B
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2022.119671
+    display: NeuroImage (2022)
+  highlight: 0
+
+- title: "neuromaps: structural and functional interpretation of brain maps"
+  image: 
+  description: 
+  authors: Markello RD, Hansen JY, Liu ZQ, Bazinet V, Shafiei G, Suarez LE, Blostein N, Seidlitz J, Baillet S, Satterthwaite TD, Chakravarty MM, Raznahan A, Misic B
+  link:
+    url: https://doi.org/10.1038/s41592-022-01625-w
+    display: Nature Methods (2022)
+  highlight: 0
+
 - title: "Resolving inter-regional communication capacity in the human connectome"
   image: 
   description: 
@@ -225,15 +243,6 @@
     display: Net Neurosci (2022)
   highlight: 0
 
-- title: "Neuromaps: structural and functional interpretation of brain maps"
-  image: 
-  description: 
-  authors: Markello RD, Hansen JY, Liu ZQ, Bazinet V, Shafiei G, Suarez LE, Blostein N, Seidlitz J, Baillet S, Satterthwaite TD, Chakravarty MM, Raznahan A, Misic B
-  link:
-    url: https://doi.org/10.1101/2022.01.06.475081
-    display: bioRxiv (2022)
-  highlight: 0
-
 - title: "Neuroanatomical correlates of polygenic risk for Parkinson disease"
   image: 
   description:
@@ -268,15 +277,6 @@
   link:
     url: https://doi.org/10.1093/brain/awab440
     display: Brain (2021)
-  highlight: 0
-
-- title: "Correspondence between gene expression and neurotransmitter receptor and transporter density in the human brain"
-  image: 
-  description: 
-  authors: Hansen JY, Markello RD, Tuominen L, Norgaard M, Kuzmin E, Palomero-Gallagher N, Dagher A, Misic B
-  link:
-    url: https://doi.org/10.1101/2021.11.30.469876
-    display: bioRxiv (2021)
   highlight: 0
 
 - title: "Brain atrophy progression in Parkinson’s disease is shaped by connectivity and local vulnerability"
