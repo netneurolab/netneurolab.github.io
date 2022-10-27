@@ -1,3 +1,12 @@
+- title: "Mapping neurotransmitter systems to the structural and functional organization of the human neocortex"
+  image: 
+  description: 
+  authors: Hansen JY, Shafiei G, Markello RD, ..., Misic B
+  link:
+    url: https://doi.org/10.1038/s41593-022-01186-3
+    display: Nature Neuroscience (2022)
+  highlight: 0
+
 - title: "Correspondence between gene expression and neurotransmitter receptor and transporter density in the human brain"
   image: 
   description: 
@@ -296,15 +305,6 @@
   link:
     url: https://doi.org/10.7554/eLife.72129
     display: eLife (2021)
-  highlight: 0
-
-- title: "Mapping neurotransmitter systems to the structural and functional organization of the human neocortex"
-  image: 
-  description: 
-  authors: Hansen JY, Shafiei G, Markello RD, ..., Misic B
-  link:
-    url: https://doi.org/10.1101/2021.10.28.466336
-    display: bioRxiv (2021)
   highlight: 0
 
 - title: "Brief segments of neurophysiological activity enable individual differentiation"
