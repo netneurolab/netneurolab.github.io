@@ -1,3 +1,12 @@
+- title: "A connectomics-based taxonomy of mammals"
+  image: 
+  description: 
+  authors: Suarez LE, Yovel Y, van den Heuvel MP, Sporns O, Assaf Y, Lajoie G, Misic B
+  link:
+    url: https://doi.org/10.7554/eLife.78635
+    display: eLife (2022)
+  highlight: 0
+
 - title: "Towards best practices for imaging transcriptomics"
   image: 
   description: 
@@ -241,15 +250,6 @@
   link:
     url: https://doi.org/10.1038/s41586-022-04554-y
     display: Nature (2022)
-  highlight: 0
-
-- title: "A connectomics-based taxonomy of mammals"
-  image: 
-  description: 
-  authors: Suarez LE, Yovel Y, van den Heuvel MP, Sporns O, Assaf Y, Lajoie G, Misic B
-  link:
-    url: https://doi.org/10.1101/2022.03.11.483995
-    display: bioRxiv (2022)
   highlight: 0
 
 - title: "Network structure and transcriptomic vulnerability shape atrophy in frontotemporal dementia"
