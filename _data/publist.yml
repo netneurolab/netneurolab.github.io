@@ -1,3 +1,21 @@
+- title: "Towards best practices for imaging transcriptomics"
+  image: 
+  description: 
+  authors: Arnatkeviciute A, Markello RD, Fulcher BD, Misic B, Fornito A
+  link:
+    url: https://doi.org/10.1016/j.biopsych.2022.10.016
+    display: Biological Psychiatry (2022)
+  highlight: 0
+
+- title: "From neurotransmitters to networks: transcending organisational hierarchies with molecular-informed functional imaging"
+  image: 
+  description: 
+  authors: Lawn T, Howard M, Turkheimer F, Misic B, Deco G, Martins D, Dipasquale O
+  link:
+    url: https://doi.org/10.31234/osf.io/ep5ng
+    display: psyRxiv (2022)
+  highlight: 0
+
 - title: "Mapping neurotransmitter systems to the structural and functional organization of the human neocortex"
   image: 
   description: 
