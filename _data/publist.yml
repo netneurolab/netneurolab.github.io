@@ -1,3 +1,12 @@
+- title: "Pattern of frustration formation in the functional brain network" 
+  image: 
+  description: 
+  authors: Saberi M, Khosrowabadi R, Khatibi A, Misic B, Jafari G
+  link:
+    url: https://doi.org/10.1162/netn_a_00268
+    display: Net Neurosci (2022)
+  highlight: 0
+
 - title: "Multimodal, multiscale connectivity blueprints of the cerebral cortex"
   image: 
   description: 
@@ -223,15 +232,6 @@
   link:
     url: https://doi.org/10.1093/cercor/bhac150
     display: Cereb Cortex (2022)
-  highlight: 0
-
-- title: "Pattern of frustration formation in the functional brain network" 
-  image: 
-  description: 
-  authors: Saberi M, Khosrowabadi R, Khatibi A, Misic B, Jafari G
-  link:
-    url: https://doi.org/10.1101/2022.05.29.493932
-    display: bioRxiv (2022)
   highlight: 0
 
 - title: "Sex-specific associations in verbal memory brain circuitry in early psychosis" 
