@@ -1,3 +1,12 @@
+- title: "BrainStat: a toolbox for brain-wide statistics and multimodal feature associations"
+  image: 
+  description:
+  authors: Lariviere S, vos de Wael R, Bayrak S, Benkarim O, Herholz P, Rodriguez-Cruces, R, Paquola C, Hong SJ, Misic B, Evans AC, Valk SL, Bernhardt BC
+  link:
+    url: https://doi.org/10.1016/j.neuroimage.2022.119807
+    display: NeuroImage (2022)
+  highlight: 0
+
 - title: "Pattern of frustration formation in the functional brain network" 
   image: 
   description: 
@@ -286,15 +295,6 @@
   link:
     url: https://doi.org/10.1101/2022.01.17.22269262
     display: medRxiv (2022)
-  highlight: 0
-  
-- title: "BrainStat: a toolbox for brain-wide statistics and neuroscience contextualization"
-  image: 
-  description:
-  authors: vos de Wael R, Bayrak S, Benkarim O, Herholz P, Lariviere S, Rodriguez-Cruces, R, Paquola C, Hong SJ, Misic B, Evans AC, Valk SL, Bernhardt BC
-  link:
-    url: https://doi.org/10.1101/2022.01.18.476795
-    display: bioRxiv (2022)
   highlight: 0
 
 - title: "The myelin-weighted connectome in Parkinson's disease"
