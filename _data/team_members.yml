@@ -9,13 +9,6 @@
   education4:
   education5:
 
-- name: Golia Shafiei
-  photo: golia.jpg
-  info: NSERC PhD student
-  email: golia.shafiei@mail.mcgill.ca
-  number_educ: 0
-  education1: 
-
 - name: Laura Suarez
   photo: laura.jpg
   info: FRQNT PhD student
@@ -73,3 +66,10 @@
   education1:
   education2:
   education3:
+  
+- name: Eric Ceballos
+  photo: eric.jpg
+  info: PhD student
+  email: eric.ceballosdominguez@mail.mcgill.ca
+  number_educ: 0
+  education1: 
