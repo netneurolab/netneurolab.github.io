@@ -133,6 +133,7 @@ Jonathan:
 
 Alyssa:
     display_name: "Alyssa Dai"
+    webpage: https://github.com/alyssadai
     github: alyssadai
     role: staff
     image: /img/people/alyssa.png
@@ -158,9 +159,17 @@ Brent:
     image: /img/people/brent.jpg
     bio: Postdoctoral researcher
     
- Niusha:
-   display_name: "Niusha Mirhakimi"
-   github: mirhnius
-   role: grad 
-   image: /img/people/niusha.jpg
-   bio: MSc student 
+Niusha:
+    display_name: "Niusha Mirhakimi"
+    github: mirhnius
+    role: grad 
+    image: /img/people/niusha.jpg
+    bio: MSc student 
+
+Arman:
+    display_name: "Arman Jahanpour"
+    webpage: https://github.com/rmanaem
+    github: rmanaem
+    role: staff
+    image: /img/people/arman.jpg
+    bio: Research Software Developer
