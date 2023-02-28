@@ -158,9 +158,9 @@ Brent:
     image: /img/people/brent.jpg
     bio: Postdoctoral researcher
     
- Niusha:
-   display_name: "Niusha Mirhakimi"
-   github: mirhnius
-   role: grad 
-   image: /img/people/niusha.jpg
-   bio: MSc student 
+Niusha:
+    display_name: "Niusha Mirhakimi"
+    github: mirhnius
+    role: grad 
+    image: /img/people/niusha.jpg
+    bio: MSc student 
