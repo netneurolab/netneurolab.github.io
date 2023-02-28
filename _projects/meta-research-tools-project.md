@@ -3,7 +3,7 @@ title: Facilitating neuroimaging meta-research
 status: active
 layout: project
 people:
-  - Jérôme
+  - Jerome
   - Kendra
 ---
 
