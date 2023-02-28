@@ -152,6 +152,7 @@ Ines:
     role: staff
     image: /img/people/ines.jpg
     bio: Research Assistant
+
 Brent:
     display_name: "Brent McPherson"
     github: bcmcpher
@@ -173,3 +174,11 @@ Arman:
     role: staff
     image: /img/people/arman.jpg
     bio: Research Software Developer
+
+Michelle:
+    display_name: "Michelle Wang"
+    webpage: "https://github.com/michellewang"
+    github: michellewang
+    role: grad
+    image: /img/people/michelle.jpg
+    bio: PhD student
