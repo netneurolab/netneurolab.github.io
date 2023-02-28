@@ -6,6 +6,7 @@ layout: project
 people:
   - Nikhil
   - Vincent
+  - Ines
   - Michelle
 ---
 
