@@ -1,6 +1,6 @@
 ---
 title: Data-driven approaches to cognitive and computational auditory neuroscience
-status: active
+status: inactive
 layout: project
 people:
   - Peer
