@@ -1,7 +1,7 @@
 ---
 title: Machine Learning for the Cognitive Neurosciences
 description: Teaching workshop for applying ML methods to neuroscience
-status: active
+status: inactive
 layout: default
 people:
   - Lex
