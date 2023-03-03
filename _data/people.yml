@@ -18,7 +18,7 @@ Lex:
     display_name: "Alexandre Hutton"
     webpage: "https://github.com/AlexandreHutton"
     github: AlexandreHutton
-    role: staff
+    role: alum
     image: /img/people/lex.jpg
     bio: Research Assistant
 
@@ -26,7 +26,7 @@ Adam:
     display_name: "Adam Trefonides"
     webpage:
     github:
-    role: staff
+    role: alum
     image: /img/people/adam.png
     bio: Research Software Developer
 
@@ -34,7 +34,7 @@ Peer:
     display_name: "Peer Herholz"
     webpage: "https://peerherholz.github.io/"
     github: https://github.com/peerherholz
-    role: postdoc
+    role: alum
     image: /img/people/peer.png
     bio: Postdoctoral researcher
 
@@ -42,7 +42,7 @@ Vincent:
     display_name: "Qing Wang (Vincent)"
     webpage: "https://github.com/Vincent-wq"
     github: Vincent-wq
-    role: postdoc
+    role: alum
     image: /img/people/vincent.jpg
     bio: Postdoctoral researcher
 
@@ -66,7 +66,7 @@ Elizabeth:
     display_name: "Elizabeth DuPre"
     webpage: "https://elizabeth-dupre.com/"
     github: emdupre
-    role: grad
+    role: alum
     image: /img/people/elizabeth.jpg
     bio: PhD student
 
