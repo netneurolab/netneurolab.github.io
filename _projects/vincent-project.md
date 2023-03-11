@@ -1,7 +1,7 @@
 ---
 title: Replicability of large dataset data-driven results in smaller local datasets
 subtitle: An example of ICA network of Parkinson disease
-status: active
+status: inactive
 layout: project
 people:
   - Vincent
