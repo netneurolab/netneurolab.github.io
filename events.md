@@ -11,30 +11,38 @@ The event will take place at the Montreal Neurological Institute on Thursday 27t
 ## Program
 
 ### Morning : 
+
 **9:30-10:30**
-	Introductory remarks: Tom Nichols, JB Poline
-	Keynote: Inaugural Keith Worsley lecture : Jonathan Taylor
+* Introductory remarks: Tom Nichols, JB Poline
+* Keynote: Inaugural Keith Worsley lecture : **Jonathan Taylor**
+
 **10:30:11:45**
-	15mn presentation TBA
-	15mn presentation TBA
+* 15mn presentation TBA
+* 15mn presentation TBA
+
 **Break** 
-	15mn presentation TBA
-	15mn presentation TBA
-**11:45-12:30** Keynote: Mandy Meija
+* 15mn presentation TBA
+* 15mn presentation TBA
+
+**11:45-12:30** 
+* Keynote: **Mandy Meija**
 
 ### 12:30-13:30 Lunch break 
 
 ### Afternoon : 
 **13:30-2:15** 
-	Keynote: Jelle Goeman
+* Keynote: **Jelle Goeman**
+
 **2:15-3:30**
-	15mn presentation TBA
-	15mn presentation TBA
+* 15mn presentation TBA
+* 15mn presentation TBA
+
 **Break** 
-	15mn presentation TBA
-	15mn presentation TBA
+- 15mn presentation TBA
+- 15mn presentation TBA
+
 **3:30-4:30** 
-	Keynote: Martin Linquist
+- Keynote: **Martin Linquist**
 
 ## Venue
 
@@ -43,6 +51,6 @@ De grand pré, Montreal Neurological Institute, McGill University, 3801 Rue Univ
 
 ## To register 
 
-- Please register using [this link](https://forms.gle/YraFS9AVLPozjwZY9) 
+#### Please register using [this link](https://forms.gle/YraFS9AVLPozjwZY9) 
 
 
