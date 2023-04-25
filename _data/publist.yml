@@ -1,3 +1,12 @@
+- title: "Resolving inter-regional communication capacity in the human connectome"
+  image: 
+  description: 
+  authors: Milisav F, Bazinet V, Iturria-Medina Y, Misic B
+  link:
+    url: https://doi.org/10.1162/netn_a_00318
+    display: Net Neurosci (2023)
+  highlight: 0
+
 - title: "The human brain connectome weighted by the myelin content and total intra-axonal cross-sectional area of white matter tracts"
   image: 
   description: 
@@ -167,15 +176,6 @@
   link:
     url: https://doi.org/10.1038/s41592-022-01625-w
     display: Nature Methods (2022)
-  highlight: 0
-
-- title: "Resolving inter-regional communication capacity in the human connectome"
-  image: 
-  description: 
-  authors: Milisav F, Bazinet V, Iturria-Medina Y, Misic B
-  link:
-    url: https://doi.org/10.1101/2022.09.28.509962
-    display: bioRxiv (2022)
   highlight: 0
 
 - title: "Conserved whole-brain spatiomolecular gradients shape adult brain functional organization"
