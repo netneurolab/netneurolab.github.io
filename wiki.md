@@ -10,7 +10,7 @@ title: Lab Wiki
 
 -Get added to our [GitHub repository](https://github.com/neurodatascience) and add your project.
 
--Attend weekly lab meetings on Wednesdays at 3:00 pm in NW125 (or for now, Zoom) (check in the slack for changes to place/time).
+-Attend weekly lab meetings on Tuesdays at 11:00 am in NW123 (or for now, Zoom) (check in the slack for changes to place/time).
 
 -Before each lab meeting, fill in the meetings google doc with what you’ve been working on and anything you want to discuss (see Slack for link).
 
