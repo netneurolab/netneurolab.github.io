@@ -1,3 +1,12 @@
+- title: "conn2res: A toolbox for connectome-based reservoir computing"
+  image: 
+  description: 
+  authors: Suarez LE, Mihalik A, Milisav F, Li M, Marshall K, Vertes PE, Lajoie G, Misic B
+  link:
+    url: https://doi.org/10.1101/2023.05.31.543092
+    display: bioRxiv (2023)
+  highlight: 0
+
 - title: "Assortative mixing in micro-architecturally annotated brain connectomes"
   image: 
   description: 
