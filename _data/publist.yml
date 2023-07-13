@@ -1,3 +1,12 @@
+- title: "Cerebral chemoarchitecture shares organizational traits with brain structure and function"
+  image: 
+  description: 
+  authors: Hanisch B, Hansen JY, Bernhardt BC, Eickhoff SB, Dukart J, Misic B, Valk SL
+  link:
+    url: https://doi.org/10.7554/eLife.83843
+    display: eLife (2023)
+  highlight: 0
+
 - title: "Spatially heterogeneous structure-function coupling in haemodynamic and electromagnetic brain networks"
   image: 
   description: 
@@ -240,17 +249,6 @@
     url: https://doi.org/10.1016/j.bpsgos.2022.08.003
     display: Biological Psychiatry Global Open Science (2022)
   highlight: 0
-
-
-- title: "Neurotransmitter transporter/receptor co-expression shares organizational traits with brain structure and function"
-  image: 
-  description: 
-  authors: Hanisch B, Hansen JY, Bernhardt BC, Eickhoff SB, Dukart J, Misic B, Valk SL
-  link:
-    url: https://doi.org/10.1101/2022.08.26.505274
-    display: bioRxiv (2022)
-  highlight: 0
-
 
 - title: "Local molecular and global connectomic contributions to cross-disorder cortical abnormalities"
   image: 
