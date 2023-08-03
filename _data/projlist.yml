@@ -4,7 +4,7 @@
   highlight: 1
 
 - title: "Annotated Connectomics"
-  image: res_annot.png
+  image: res_annot_vince.png
   description: Brain regions differ in terms of their cytoarchitecture, neurotransmitter receptor profiles, gene expression, temporal dynamics, etc. We reconstruct “annotated” connectomes, enriched with features. The goal of this work is to understand how microscopic properties and macroscale network embedding interact to support the emergence of global dynamics and patterned neural activity.
   highlight: 1
   
