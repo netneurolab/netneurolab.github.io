@@ -26,7 +26,7 @@ We are a dynamic research group at the [Montreal Neurological Institute](https:/
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_logo.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_logo.png" alt="Slide 0" />
         </div>
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_comm.png" alt="Slide 2" />
