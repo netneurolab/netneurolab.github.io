@@ -1,5 +1,5 @@
 - title: "Neuroimaging Data Science"
-  image: res_agent.png
+  image: res_neuromaps.png
   description: Imaging technologies are increasingly used to generate high-resolution reference maps of brain structure and function. Modern scientific discovery relies on making comparisons between new maps (e.g. task activations, group structural differences) and these reference maps. We develop open tools for accessing, transforming, and analyzing structural and functional brain annotations.
   highlight: 1
 
@@ -14,7 +14,7 @@
   highlight: 1
 
 - title: "Neuromorphic Networks"
-  image: res_agent.png
+  image: res_rc.png
   description: How does connectome architecture shape computation? We are constructing bio-instantiated artificial neural networks by implementing real biological brain connectomes as artificial networks. Using realistic biophysical dynamics and connection patterns, we are developing neuromorphic reservoir computers - connectomes that can be trained to perform cognitive tasks, such as working memory, language comprehension, spatial navigation.
   highlight: 1
 
