@@ -81,5 +81,5 @@ We are grateful for funding from Canadian Institutes of Health Research ([CIHR](
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_nserc.png" style="width: 130px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_cihr.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_crc.jpg" style="width: 110px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_bc.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_bc.png" style="width: 110px">
 </figure>
