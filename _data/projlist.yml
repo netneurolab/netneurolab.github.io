@@ -13,6 +13,11 @@
   description: Networks of white matter fibers projections form polyfunctional neural circuits that support cognition. We study how the structural organization of the brain supports emergent neural dynamics. We are primarily interested in how structure-function coupling varies across the cortical hierarchy, how it depends on local micro-architecture, and how it varies across time.
   highlight: 1
 
+- title: "Neuromorphic Networks"
+  image: res_agent.png
+  description: How does connectome architecture shape computation? We are constructing bio-instantiated artificial neural networks by implementing real biological brain connectomes as artificial neural networks. Using realistic biophysical dynamics and connection patterns, we are developing neuromorphic reservoir computers: networked dynamical systems that can be used to process time-varying input signals.
+  highlight: 1
+
 - title: "Disease Propagation"
   image: res_agent.png
   description: Axonal fibers provide a scaffold through which misfolded pathogenic proteins spread, shaping the course and expression of neurodegenerative diseases such as Parkinson’s (PD) and Alzheimer’s (AD) disease.  We develop generative models that integrate connectivity (diffusion MRI), co-activation (functional MRI) and genetics (mRNA transcription) to predict the evolution of neurodegenerative diseases. 
