@@ -15,7 +15,7 @@
 
 - title: "Neuromorphic Networks"
   image: res_agent.png
-  description: How does connectome architecture shape computation? We are constructing bio-instantiated artificial neural networks by implementing real biological brain connectomes as artificial neural networks. Using realistic biophysical dynamics and connection patterns, we are developing neuromorphic reservoir computers: networked dynamical systems that can be used to process time-varying input signals.
+  description: How does connectome architecture shape computation? We are constructing bio-instantiated artificial neural networks by implementing real biological brain connectomes as artificial networks. Using realistic biophysical dynamics and connection patterns, we are developing neuromorphic reservoir computers: connectomes that can be trained to perform cognitive tasks, such as working memory, language comprehension, spatial navigation.
   highlight: 1
 
 - title: "Disease Propagation"
