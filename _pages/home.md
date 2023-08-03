@@ -20,13 +20,14 @@ We are a dynamic research group at the [Montreal Neurological Institute](https:/
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
         <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
     </ol>
 
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
 
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_logo.png" alt="Slide 0" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_logo.png" alt="Slide 1" />
         </div>
         <div class="item active">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_comm.png" alt="Slide 2" />
