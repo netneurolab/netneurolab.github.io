@@ -1,6 +1,6 @@
 - title: "Neuroimaging Data Science"
-  image: Imaging technologies are increasingly used to generate high-resolution reference maps of brain structure and function. Modern scientific discovery relies on making comparisons between new maps (e.g. task activations, group structural differences) and these reference maps. We develop open tools for accessing, transforming, and analyzing structural and functional brain annotations.
-  description: 
+  image: 
+  description: Imaging technologies are increasingly used to generate high-resolution reference maps of brain structure and function. Modern scientific discovery relies on making comparisons between new maps (e.g. task activations, group structural differences) and these reference maps. We develop open tools for accessing, transforming, and analyzing structural and functional brain annotations.
   highlight: 1
 
 - title: "Annotated Networks"
