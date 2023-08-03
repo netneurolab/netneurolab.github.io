@@ -3,7 +3,7 @@
   description: Imaging technologies are increasingly used to generate high-resolution reference maps of brain structure and function. Modern scientific discovery relies on making comparisons between new maps (e.g. task activations, group structural differences) and these reference maps. We develop open tools for accessing, transforming, and analyzing structural and functional brain annotations.
   highlight: 1
 
-- title: "Annotated Networks"
+- title: "Annotated Connectomics"
   image: res_annot.png
   description: Brain regions differ in terms of their cytoarchitecture, neurotransmitter receptor profiles, gene expression, temporal dynamics, etc. We reconstruct “annotated” connectomes, enriched with features. The goal of this work is to understand how microscopic properties and macroscale network embedding interact to support the emergence of global dynamics and patterned neural activity.
   highlight: 1
