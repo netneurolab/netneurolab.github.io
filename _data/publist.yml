@@ -215,7 +215,7 @@
   highlight: 0
 
 - title: "neuromaps: structural and functional interpretation of brain maps"
-  image: 
+  image: pub_neuromaps.png
   description: 
   authors: Markello RD, Hansen JY, Liu ZQ, Bazinet V, Shafiei G, Suarez LE, Blostein N, Seidlitz J, Baillet S, Satterthwaite TD, Chakravarty MM, Raznahan A, Misic B
   link:
@@ -450,7 +450,7 @@
 
 
 - title: "Standardizing workflows in imaging transcriptomics with the abagen toolbox"
-  image: 
+  image: pub_abagen.png
   description: 
   authors: Markello RD, Arnatkeviciute A, Poline JB, Fulcher BD, Fornito A, Misic B
   link:
