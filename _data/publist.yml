@@ -70,7 +70,7 @@
     display: Net Neurosci (2023)
   highlight: 0
 
-- title: "The human brain connectome weighted by the myelin content and total intra-axonal cross-sectional area of white matter tracts"
+- title: "Transitions between cognitive topographies: contributions of network structure, neuromodulation, and disease"
   image: 
   description: 
   authors: Luppi AI, Singleton SPI, Hansen JY, Bzdok D, Kuceyeski A, Betzel RF, Misic B
@@ -676,7 +676,7 @@
   
 - title: "Linking structure and function in macroscale brain networks"
   image: slide_hierarchy.jpg
-  description: We explore structure-function relationships in brain networks from the perspective of microscale annotations, hierarchies and neuromodulation.
+  description:
   authors: Suarez LE, Markello RD, Betzel RF, Misic B
   link:
     url: https://doi.org/10.1016/j.tics.2020.01.008
@@ -699,7 +699,7 @@
   link:
     url: https://doi.org/10.1016/j.biopsych.2019.09.031
     display: Biol Psychiat (2020)
-  highlight: 1
+  highlight: 0
 
 - title: "BrainSpace: a toolbox for the analysis of macroscale gradients in neuroimaging and connectomics datasets"
   image: 
@@ -712,16 +712,16 @@
 
 - title: "Connectome architecture, gene expression and functional co-activation shape the spread of neurodegenerative disease"
   image: schematic.jpg
-  description: We use agent-based models to simulate the propagation of misfolded proteins in Parkinson's disease. Our model highlights the joint contribution of local vulnerability and global network architecture in shaping disease course.
+  description:
   authors: Zheng YQ, Zhang Y, Yau Y, Zeighami Y, Larcher K, Misic B†, Dagher A†
   link:
     url: https://doi.org/10.1371/journal.pbio.3000495
     display: PLoS Biol (2019)
-  highlight: 1
+  highlight: 0
 
 - title: "Gradients of structure-function tethering across neocortex"
   image: rsq_main.png
-  description: Structure-function coupling is not uniform across cortex. We show gradual divergence through the unimodal-transmodal hierarchy.
+  description:
   authors: Vazquez-Rodriguez B, Suarez LE, Markello RD, Shafiei G, Paquola C, van den Heuvel MP, Hagmann P, Hagmann P, Bernhardt BC, Spreng RN, Misic B
   link:
     url: https://doi.org/10.1073/pnas.1903403116
@@ -791,7 +791,7 @@
   link:
     url: https://doi.org/10.1162/netn_a_00075
     display: Net Neurosci (2019)
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "Mesolimbic connectivity signatures of impulsivity and BMI in early adolescence"
@@ -810,7 +810,7 @@
   link:
     url: https://doi.org/10.1093/cercor/bhy264
     display: Cereb Cortex (2019)
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "Microstructure-informed connectomics: enriching large-scale network descriptions of the healthy and diseased brain"
@@ -867,7 +867,7 @@
   link:
     url: https://doi.org/10.1038/nrn.2017.149
     display: Nat Rev Neurosci (2018)
-  highlight: 1
+  highlight: 0
   news2:
   
 - title: "Lesion-symptom mapping including structural and dynamic connectome measures: a modern approach with applications for post-stroke aphasia"
