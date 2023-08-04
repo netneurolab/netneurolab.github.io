@@ -29,7 +29,7 @@
   highlight: 1
 
 - title: "Null Models"
-  image: res_comm.png
+  image: res_null.png
   description: How do we demonstrate that a brain network feature is statistically unexpected? Null models are an inferential tool to assess the presence or magnitude of features, by selectively preserving specific architectural properties of brain networks while randomizing others. We develop and systematically benchmark null models to understand the architecture of brain networks.
   highlight: 1
 
