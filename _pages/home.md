@@ -32,7 +32,7 @@ We are a dynamic research group at the [Montreal Neurological Institute](https:/
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_logo.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_comm.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_scfc.png" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_hierarchy.png" alt="Slide 3" />
@@ -41,13 +41,13 @@ We are a dynamic research group at the [Montreal Neurological Institute](https:/
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_pls.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_agent.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_annotated.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_annotated.png" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_mami.png" alt="Slide 6" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_mami.png" alt="Slide 7" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_agent.png" alt="Slide 7" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_snf.png" alt="Slide 8" />
@@ -55,8 +55,8 @@ We are a dynamic research group at the [Montreal Neurological Institute](https:/
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_epicenter.png" alt="Slide 9" />
         </div>       
-         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_scfc.png" alt="Slide 10" />
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/slide_comm.png" alt="Slide 10" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
