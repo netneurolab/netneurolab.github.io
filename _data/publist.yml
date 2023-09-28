@@ -16,6 +16,24 @@
     display: Nature Communications (2023)
   highlight: 0
 
+- title: "Mitochondrial function-associated genes underlie cortical atrophy in prodromal synucleinopathies"
+  image: 
+  description: 
+  authors: Rahayel S, Tremblay C, Vo A, Misic B, Lehericy S, Arnulf I, Vidaihlet M, Corvol JC, Gagnon JF, Postuma RB, Montplaisir J, Lewis S, Matar E, Eghoetz Martens K, Borghammer P, Knudsen K, Hansen A, Monchi U, Gan-Or Z, Dagher A
+  link:
+    url: https://doi.org/10.1093/brain/awad044
+    display: Brain (2023)
+  highlight: 0
+
+- title: "The default network dominates neural responses to evolving movie stories"
+  image: 
+  description: 
+  authors: Yang E, Milisav F, Kopal J, Homes AJ, Mitsis GD, Misic B, Finn ES, Bzdok D
+  link:
+    url: https://doi.org/10.1038/s41467-023-39862-y
+    display: Nature Communications (2023)
+  highlight: 0
+
 - title: "Cerebral chemoarchitecture shares organizational traits with brain structure and function"
   image: 
   description: 
@@ -230,15 +248,6 @@
   link:
     url: https://doi.org/10.1101/2022.09.18.508425
     display: bioRxiv (2022)
-  highlight: 0
-
-- title: "Mitochondrial dysfunction underlies cortical atrophy in prodromal synucleinopathies"
-  image: 
-  description: 
-  authors: Rahayel S, Tremblay C, Vo A, Misic B, Lehericy S, Arnulf I, Vidaihlet M, Corvol JC, Gagnon JF, Postuma RB, Montplaisir J, Lewis S, Matar E, Eghoetz Martens K, Borghammer P, Knudsen K, Hansen A, Monchi U, Gan-Or Z, Dagher A
-  link:
-    url: https://doi.org/10.1101/2022.09.01.22279508
-    display: medRxiv (2022)
   highlight: 0
 
 - title: "Schizophrenia polygenic risk during typical development reflects multiscale cortical organization"
