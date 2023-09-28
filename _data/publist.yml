@@ -1,3 +1,21 @@
+- title: "Integrating multimodal and multiscale connectivity blueprints of the human cerebral cortex in health and disease"
+  image: 
+  description: 
+  authors: Hansen JY, Shafiei G, Voigt K, Liang E, Cox SML, Leyton M, Jamadar SD, Misic B
+  link:
+    url: https://doi.org/10.1371/journal.pbio.3002314
+    display: PLoS Biology (2023)
+  highlight: 0
+
+- title: "Neurophysiological signatures of cortical micro-architecture"
+  image: 
+  description: 
+  authors: Shafiei G, Fulcher BD, Voytek B, Satterthwaite TD, Baillet S, Misic B
+  link:
+    url: https://doi.org/10.1038/s41467-023-41689-6
+    display: Nature Communications (2023)
+  highlight: 0
+
 - title: "Cerebral chemoarchitecture shares organizational traits with brain structure and function"
   image: 
   description: 
@@ -115,15 +133,6 @@
     display: medRxiv (2023)
   highlight: 0
 
-- title: "Neurophysiological signatures of cortical micro-architecture"
-  image: 
-  description: 
-  authors: Shafiei G, Fulcher BD, Voytek B, Satterthwaite TD, Baillet S, Misic B
-  link:
-    url: https://doi.org/10.1101/2023.01.23.525101
-    display: bioRxiv (2023)
-  highlight: 0
-
 - title: "Connectome topology of mammalian brains and its relationship to taxonomy and phylogeny"
   image: 
   description: 
@@ -167,15 +176,6 @@
   link:
     url: https://doi.org/10.1162/netn_a_00268
     display: Net Neurosci (2022)
-  highlight: 0
-
-- title: "Multimodal, multiscale connectivity blueprints of the cerebral cortex"
-  image: 
-  description: 
-  authors: Hansen JY, Shafiei G, Voigt K, Liang E, Cox SML, Leyton M, Jamadar SD, Misic B
-  link:
-    url: https://doi.org/10.1101/2022.12.02.518906
-    display: bioRxiv (2022)
   highlight: 0
 
 - title: "A connectomics-based taxonomy of mammals"
