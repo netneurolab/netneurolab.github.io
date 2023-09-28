@@ -43,6 +43,15 @@
     display: eLife (2023)
   highlight: 0
 
+- title: "In vivo mapping of pharmacologically induced functional reorganization onto the human brain’s neurotransmitter landscape"
+  image: 
+  description: 
+  authors: Luppi AI, Hansen JY, Adapa R, Carhart-Harris RL, Roseman L, Golkowski D, Ranft A, Ilg R, Jordan D, Peattie ARD, Mnketlow AE, deAraujo DB, Sensi SL, Owen AM, Naci L, Menon DK, Misic B, Stamatakis EA.
+  link:
+    url: https://doi.org/10.1126/sciadv.adf8332
+    display: Science Advances (2023)
+  highlight: 0
+
 - title: "Spatially heterogeneous structure-function coupling in haemodynamic and electromagnetic brain networks"
   image: 
   description: 
@@ -275,15 +284,6 @@
   link:
     url: https://doi.org/10.1371/journal.pbio.3001735
     display: PLoS Biology (2022)
-  highlight: 0
-
-- title: "Mapping pharmacologically-induced functional reoragnisation onto the brains neurotransmitter landscape"
-  image: 
-  description: 
-  authors: Luppi AI, Hansen JY, Adapa R, Carhart-Harris RL, Roseman L, Golkowski D, Ranft A, Ilg R, Jordan D, Peattie ARD, Mnketlow AE, deAraujo DB, Sensi SL, Owen AM, Naci L, Menon DK, Misic B, Stamatakis EA.
-  link:
-    url: https://doi.org/10.1101/2022.07.12.499688
-    display: bioRxiv (2022)
   highlight: 0
 
 - title: "Null models in network neuroscience"
