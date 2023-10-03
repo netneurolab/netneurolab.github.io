@@ -79,6 +79,15 @@
     display: Nature Communications (2023)
   highlight: 0
 
+- title: "The human brain connectome weighted by the myelin content and total intra-axonal cross-sectional area of white matter tracts"
+  image: 
+  description: 
+  authors: Nelson M, Royer J, Leppert IR, Campbell JSW, Schiavi S, Jin H, Tavakol S, Vos de Wael R, Rodriguez-Cruces R, Pike GB, Bernhardt BC, Dadduci A, Misic B, Tardif CL
+  link:
+    url: https://doi.org/10.1162/netn_a_00330
+    display: Net Neurosci (2023)
+  highlight: 0
+
 - title: "Human cortex development is shaped by molecular and cellular brain systems"
   image: 
   description: 
@@ -121,15 +130,6 @@
   authors: Luppi AI, Singleton SPI, Hansen JY, Bzdok D, Kuceyeski A, Betzel RF, Misic B
   link:
     url: https://doi.org/10.1101/2023.03.16.532981
-    display: bioRxiv (2023)
-  highlight: 0
-
-- title: "The human brain connectome weighted by the myelin content and total intra-axonal cross-sectional area of white matter tracts"
-  image: 
-  description: 
-  authors: Nelson M, Royer J, Leppert IR, Campbell JSW, Schiavi S, Jin H, Tavakol S, Vos de Wael R, Rodriguez-Cruces R, Pike GB, Bernhardt BC, Dadduci A, Misic B, Tardif CL
-  link:
-    url: https://doi.org/10.1101/2023.03.01.530710
     display: bioRxiv (2023)
   highlight: 0
 
