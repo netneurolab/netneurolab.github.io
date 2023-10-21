@@ -233,8 +233,8 @@
   highlight: 0
 
 - title: "Mapping neurotransmitter systems to the structural and functional organization of the human neocortex"
-  image: 
-  description: 
+  image: pub_receptors.png
+  description: A chemoarchitectural atlas of the human brain.
   authors: Hansen JY, Shafiei G, Markello RD, ..., Misic B
   link:
     url: https://doi.org/10.1038/s41593-022-01186-3
