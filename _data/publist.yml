@@ -297,7 +297,7 @@
 
 - title: "Null models in network neuroscience"
   image: pub_null.png
-  description: 
+  description: A review of null modeling methods in connectomics and network neuroscience.
   authors: Vasa F, Misic B
   link:
     url: https://doi.org/10.1038/s41583-022-00601-9
