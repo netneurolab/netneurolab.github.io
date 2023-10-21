@@ -470,7 +470,7 @@
 - title: "Standardizing workflows in imaging transcriptomics with the abagen toolbox"
   image: pub_abagen.png
   description: A toolbox for working with imaging transcriptomics data.
-  authors: Markello RD, Arnatkeviciute A, Poline JB, Fulcher BD, Fornito A, Misic B    
+  authors: Markello RD, Arnatkeviciute A, Poline JB, Fulcher BD, Fornito A, Misic B<br/><br/> 
   link:
     url: https://doi.org/10.7554/eLife.72129
     display: eLife (2021)
@@ -504,12 +504,12 @@
   highlight: 0
 
 - title: "Learning function from structure in neuromorphic networks"
-  image: 
-  description: pub_rc.png
+  image: pub_rc.png
+  description:
   authors: Suarez LE, Richards BA, Lajoie G, Misic B
   link:
     url: https://www.nature.com/articles/s42256-021-00376-1
-    display: Nat Mach Intell (2021)
+    display: Nature Machine Intelligence (2021)
   highlight: 1
 
 - title: "Structural connectivity gradients of the temporal lobe serve as multiscale axes of brain organization and cortical evolution"
