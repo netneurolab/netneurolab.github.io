@@ -1,3 +1,12 @@
+- title: "Connectome-based reservoir computing with the conn2res toolbox"
+  image: 
+  description: 
+  authors: Suarez LE, Mihalik A, Milisav F, Li M, Marshall K, Vertes PE, Lajoie G, Misic B
+  link:
+    url: https://doi.org/10.1038/s41467-024-44900-4
+    display: Nature Communications (2024)
+  highlight: 0
+
 - title: "Molecular, physiological and functional features underlying cortical thinning related to antipsychotic medication use"
   image: 
   description: 
@@ -15,7 +24,6 @@
     url: https://doi.org/10.1038/s42256-023-00771-w
     display: Nature Machine Intelligence (2023)
   highlight: 0
-
 
 - title: "Molecular and micro-architectural mapping of abnormal gray matter developmental trajectories in psychosis"
   image: 
@@ -132,15 +140,6 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2023.120276
     display: NeuroImage (2023)
-  highlight: 0
-
-- title: "conn2res: A toolbox for connectome-based reservoir computing"
-  image: 
-  description: 
-  authors: Suarez LE, Mihalik A, Milisav F, Li M, Marshall K, Vertes PE, Lajoie G, Misic B
-  link:
-    url: https://doi.org/10.1101/2023.05.31.543092
-    display: bioRxiv (2023)
   highlight: 0
 
 - title: "Assortative mixing in micro-architecturally annotated brain connectomes"
