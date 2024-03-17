@@ -1,3 +1,21 @@
+- title: "A simulated annealing algorithm for randomizing weighted networks"
+  image: 
+  description: 
+  authors: Milisav F, Bazinet V, Betzel RF, Misic B
+  link:
+    url: https://doi.org/10.1101/2024.02.23.581792
+    display: bioRxiv (2024)
+  highlight: 0
+
+- title: "From abstract networks to biological realities"
+  image: 
+  description: 
+  authors: Luppi AI, Zhen-Qi Liu, Milisav F, Bazinet V, Hansen JY, Misic B
+  link:
+    url: https://doi.org/10.1016/j.plrev.2024.02.009
+    display: Physics of Life Reviews (2024)
+  highlight: 0
+
 - title: "Pervasive alterations of intra-axonal volume and network organization in young children with a 16p11.2 deletion"
   image: 
   description: 
