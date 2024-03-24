@@ -1,8 +1,8 @@
 - name: Laura Suarez
   photo: laura.jpg
   duration: Research Scientist at Mila Quebec
-  info: PhD, graduated 2023
-  email: laura.suarez@mail.mcgill.ca
+  info: PhD student
+  email:
   number_educ: 0
   education1: 
   education2:
@@ -12,7 +12,7 @@
 - name: Ross Markello
   photo: ross.jpg
   duration: Data Science Engineer at <a href='https://www.octavebio.com/'> Octave Biosciences</a>
-  info: PhD, graduated 2021
+  info: PhD student
   email:
   number_educ: 0
   education1:
@@ -22,8 +22,8 @@
 
 - name: Golia Shafiei
   photo: golia.jpg
-  duration: Post-doc at Penn
-  info: PhD, graduated 2021
+  duration: Post-doc at U Penn
+  info: PhD student
   email:
   number_educ: 0
   education1:
@@ -34,7 +34,7 @@
 - name: Ying-Qiu Zheng
   photo: yingqiu.jpg
   duration: PhD student at Oxford
-  info: MSc student, graduated 2019
+  info: MSc student
   email:
   number_educ: 0
   education1:
@@ -56,7 +56,7 @@
 - name: Nykan Mirchi
   photo: nykan.jpg
   duration: MD student at UofT
-  info: BSc student, graduated 2018
+  info: BSc student
   email:
   number_educ: 0
   education1:
