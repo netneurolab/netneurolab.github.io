@@ -7,6 +7,15 @@
     display: PNAS (2024)
   highlight: 0
 
+- title: "A general framework for characterizing optimal communication in brain networks"
+  image: 
+  description: 
+  authors: Fakhar K, Hadaeghi F, Seguin C, Dixit S, Messe A, Zamora-Lopez G, Misic B, Hilgetag CC
+  link:
+    url: https://doi.org/10.1101/2024.06.12.598676
+    display: bioRxiv (2024)
+  highlight: 0
+
 - title: "Benchmarking methods for mapping functional connectivity in the brain"
   image: 
   description: 
