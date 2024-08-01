@@ -1,3 +1,12 @@
+- title: "Contributions of network structure, chemoarchitecture and diagnostic categories to transitions between cognitive topographies'"
+  image: 
+  description: 
+  authors: Luppi AI, Singleton SPI, Hansen JY, Bzdok D, Kuceyeski A, Betzel RF, Misic B
+  link:
+    url: https://www.nature.com/articles/s41551-024-01242-2
+    display: Nature Biomedical Engineering (2024)
+  highlight: 0
+
 - title: "Orbitofrontal thickness and network associations as transdiagnostic signature of negative symptoms along the bipolar-schizophrenia spectrum"
   image: 
   description: 
@@ -338,15 +347,6 @@
   link:
     url: https://doi.org/10.1162/netn_a_00320
     display: Net Neurosci (2023)
-  highlight: 0
-
-- title: "Transitions between cognitive topographies: contributions of network structure, neuromodulation, and disease"
-  image: 
-  description: 
-  authors: Luppi AI, Singleton SPI, Hansen JY, Bzdok D, Kuceyeski A, Betzel RF, Misic B
-  link:
-    url: https://doi.org/10.1101/2023.03.16.532981
-    display: bioRxiv (2023)
   highlight: 0
 
 - title: "Altered spinal cord functional connectivity associated with Parkinson's disease progression"
