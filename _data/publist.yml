@@ -1,3 +1,12 @@
+- title: "Molecular and micro-architectural mapping of gray matter alterations in psychosis"
+  image: 
+  description: 
+  authors: Garcia-San-Martin N, Bethlehem RAI, Mihalik A, Seidlitz J, Sebenius I, Morillo CA, Dorfschmidt L, Shafiei G, Garcia de la Foz V, Merrit K, David A, Morgan SE, Veguilla MR, Arriola RA, Bourgon JV, Alexander-Bloch A, Misic B, Bullmore ET, Suckling J, Facorro BC, Romero-Garcia R
+  link:
+    url: https://doi.org/10.1038/s41380-024-02724-0
+    display: Molecular Psychiatry (2024)
+  highlight: 0
+
 - title: "Contributions of network structure, chemoarchitecture and diagnostic categories to transitions between cognitive topographies'"
   image: 
   description: 
@@ -176,15 +185,6 @@
   link:
     url: https://doi.org/10.1101/2024.01.24.577068
     display: bioRxiv (2023)
-  highlight: 0
-
-- title: "Molecular and micro-architectural mapping of abnormal gray matter developmental trajectories in psychosis"
-  image: 
-  description: 
-  authors: Garcia-San-Martin N, Bethlehem RAI, Mihalik A, Seidlitz J, Sebenius I, Morillo CA, Dorfschmidt L, Shafiei G, Garcia de la Foz V, Merrit K, David A, Morgan SE, Veguilla MR, Arriola RA, Bourgon JV, Alexander-Bloch A, Misic B, Bullmore ET, Suckling J, Facorro BC, Romero-Garcia R
-  link:
-    url: https://doi.org/10.1101/2023.12.11.23299652
-    display: medRxiv (2023)
   highlight: 0
 
 - title: "Connectome-wide structure-function coupling models implicate polysynaptic alterations in autism"
