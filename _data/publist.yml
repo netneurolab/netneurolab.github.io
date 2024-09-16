@@ -1,3 +1,12 @@
+- title: "Human cortex development is shaped by molecular and cellular brain systems"
+  image: 
+  description: 
+  authors: Lotter LD, Saberi A, Hansen JY, Misic B, ... , Dukart J
+  link:
+    url: https://doi.org/10.1038/s41467-024-52366-7
+    display: Nature Communications (2024)
+  highlight: 0
+
 - title: "Molecular and micro-architectural mapping of gray matter alterations in psychosis"
   image: 
   description: 
@@ -311,15 +320,6 @@
   link:
     url: https://doi.org/10.1162/netn_a_00330
     display: Net Neurosci (2023)
-  highlight: 0
-
-- title: "Human cortex development is shaped by molecular and cellular brain systems"
-  image: 
-  description: 
-  authors: Lotter LD, Saberi A, Hansen JY, Misic B, ... , Dukart J
-  link:
-    url: https://doi.org/10.1101/2023.05.05.539537
-    display: bioRxiv (2023)
   highlight: 0
 
 - title: "From neurotransmitters to networks: transcending organisational hierarchies with molecular-informed functional imaging"
