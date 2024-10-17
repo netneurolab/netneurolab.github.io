@@ -1,3 +1,12 @@
+- title: "Integrating brainstem and cortical functional architectures"
+  image: 
+  description: 
+  authors: Hansen JY, Cauzzo S, Singh K, Garcia-Gomar MG, Shine JM, Bianciardi M, Misic B
+  link:
+    url: https://doi.org/10.1038/s41593-024-01787-0
+    display: Nature Neuroscience (2024)
+  highlight: 0
+
 - title: "Benchmarking macaque brain gene expression for horizontal and vertical translation"
   image: 
   description: 
@@ -220,15 +229,6 @@
   authors: Luppi AI, Golkowski D, Ranft A, Ilg R, Jordan D, Bzdok D, Owen AM, Naci L, Stamatakis EA, Amico E, Misic B
   link:
     url: https://doi.org/10.1101/2023.11.08.566332
-    display: bioRxiv (2023)
-  highlight: 0
-
-- title: "Integrating brainstem and cortical functional architectures"
-  image: 
-  description: 
-  authors: Hansen JY, Cauzzo S, Singh K, Garcia-Gomar MG, Shine JM, Bianciardi M, Misic B
-  link:
-    url: https://doi.org/10.1101/2023.10.26.564245
     display: bioRxiv (2023)
   highlight: 0
 
