@@ -743,7 +743,7 @@
   authors: Guma E, Bordignon P, Devenyi GA, Gallino D, Anastassiadis C, Cvetkovska V, Barry A, Snook E, Germann J, Greenwood CT, Misic B, Bagot RC, Chakravarty MM
   link:
     url: https://doi.org/10.1016/j.biopsych.2021.03.017
-    display: Biol Psychiat (2021)
+    display: Biological Psychiatry (2021)
   highlight: 0
 
 - title: "Comparing spatial null models for brain maps"
@@ -761,7 +761,7 @@
   authors: Hansen JY, Markello RD, Vogel JW, Seidlitz J, Bzdok D, Misic B
   link:
     url: https://doi.org/10.1038/s41562-021-01082-z
-    display: Nat Hum Behav (2021)
+    display: Nature Human Behaviour (2021)
   highlight: 1
   
 - title: "An edge-centric model for harmonizing multi-relational network datasets"
@@ -905,7 +905,7 @@
   authors: Suarez LE, Markello RD, Betzel RF, Misic B
   link:
     url: https://doi.org/10.1016/j.tics.2020.01.008
-    display: Trends Cogn Sci (2020)
+    display: Trends in Cognitive Sciences (2020)
   highlight: 1
 
 - title: "Signal propagation via cortical hierarchies"
