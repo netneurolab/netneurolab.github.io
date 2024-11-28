@@ -1,3 +1,12 @@
+- title: "Reduced brain structural similarity is associated with maturation, neurobiological features, and clinical status in schizophrenia"
+  image: 
+  description: 
+  authors: Garcia-San-Martin N, Bethlehem RAI, Mihalik A, Seidlitz J, Sebenius I, Morillo CA, Dorfschmidt L, Shafiei G, Morgan SE, Veguilla MR, Arriola RA, Bourgon JV, Misic B, Suckling J, Facorro BC, Romero-Garcia R
+  link:
+    url: https://doi.org/10.1101/2024.11.25.24317878
+    display: medRxiv (2024)
+  highlight: 0
+
 - title: "The control costs of human brain dynamics"
   image: 
   description: 
@@ -221,15 +230,6 @@
   link:
     url: https://doi.org/10.1038/s42256-023-00771-w
     display: Nature Machine Intelligence (2023)
-  highlight: 0
-
-- title: "The control costs of human brain dynamics"
-  image: 
-  description: 
-  authors: Ceballos EG, Luppi AI, Catrillon G, Saggar M, Misic B, Riedl V
-  link:
-    url: https://doi.org/10.1101/2024.01.24.577068
-    display: bioRxiv (2023)
   highlight: 0
 
 - title: "Connectome-wide structure-function coupling models implicate polysynaptic alterations in autism"
