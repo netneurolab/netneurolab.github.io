@@ -1,3 +1,12 @@
+- title: "A simulated annealing algorithm for randomizing weighted networks"
+  image: 
+  description: 
+  authors: Milisav F, Bazinet V, Betzel RF, Misic B
+  link:
+    url: https://www.nature.com/articles/s43588-024-00735-z
+    display: Nature Computational Science (2024)
+  highlight: 0
+
 - title: "Multimodal neural correlates of childhood psychopathology"
   image: 
   description: 
@@ -166,15 +175,6 @@
   authors: Farahani A, Hansen JY, Bazinet V, Shafiei G, Collins DL, Dadar M, Kalra S, Dagher A, Misic B
   link:
     url: https://doi.org/10.1101/2024.04.11.588760
-    display: bioRxiv (2024)
-  highlight: 0
-
-- title: "A simulated annealing algorithm for randomizing weighted networks"
-  image: 
-  description: 
-  authors: Milisav F, Bazinet V, Betzel RF, Misic B
-  link:
-    url: https://doi.org/10.1101/2024.02.23.581792
     display: bioRxiv (2024)
   highlight: 0
 
