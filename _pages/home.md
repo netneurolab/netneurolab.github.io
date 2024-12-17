@@ -74,7 +74,7 @@ We use neuroimaging (MRI, M/EEG, PET) to map and model patterns of neural connec
 
 We are located at the Montreal Neurological Institute at McGill University, the birthplace of cognitive neuroscience and home to Penfield, Milner, Jasper and others. We exchange ideas and work with our colleagues in the [McConnell Brain Imaging Centre](https://www.mcgill.ca/bic/).
 
-We are grateful for funding from Canadian Institutes of Health Research ([CIHR](http://www.cihr-irsc.gc.ca/)), the Natural Sciences and Engineering Council of Canada ([NSERC](http://www.nserc-crsng.gc.ca)), the Canada Research Chairs Program ([CRC](http://www.chairs-chaires.gc.ca/)), [Brain Canada](https://braincanada.ca/), Fonds de Recherché du Quebec ([FRQ](http://www.frq.gouv.qc.ca/)), and Healthy Brains For Healthy Lives (([HBHL](https://www.mcgill.ca/hbhl/)).
+We are grateful for funding from Canadian Institutes of Health Research ([CIHR](http://www.cihr-irsc.gc.ca/)), the Natural Sciences and Engineering Council of Canada ([NSERC](http://www.nserc-crsng.gc.ca)), the Canada Research Chairs Program ([CRC](http://www.chairs-chaires.gc.ca/)), [Brain Canada](https://braincanada.ca/), Fonds de Recherché du Quebec ([FRQ](http://www.frq.gouv.qc.ca/)), and Healthy Brains For Healthy Lives ([HBHL](https://www.mcgill.ca/hbhl/)).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo_frq.png" style="width: 140px">
