@@ -1,3 +1,12 @@
+- title: "Compressing human brain activity for studying brain function"
+  image: 
+  description: 
+  authors: Misic B
+  link:
+    url: https://doi.org/10.1371/journal.pbio.3002966
+    display: PLoS Biology (2024)
+  highlight: 0
+
 - title: "Mapping neuropeptide signaling in the human brain"
   image: 
   description: 
@@ -70,6 +79,15 @@
     display: bioRxiv (2024)
   highlight: 0
 
+- title: "A multi-modal, asymmetric, weighted, and signed description of anatomical connectivity"
+  image: 
+  description: 
+  authors: Tanner J, Faskowitz J, Teixeira AS, Seguin C, Coletta L, Gozzi A, Misic B, Betzel RF
+  link:
+    url: https://doi.org/10.1038/s41467-024-50248-6
+    display: Nature Communications (2024)
+  highlight: 0
+
 - title: "Human cortex development is shaped by molecular and cellular brain systems"
   image: 
   description: 
@@ -88,7 +106,7 @@
     display: Molecular Psychiatry (2024)
   highlight: 0
 
-- title: "Contributions of network structure, chemoarchitecture and diagnostic categories to transitions between cognitive topographies'"
+- title: "Contributions of network structure, chemoarchitecture and diagnostic categories to transitions between cognitive topographies"
   image: 
   description: 
   authors: Luppi AI, Singleton SPI, Hansen JY, Bzdok D, Kuceyeski A, Betzel RF, Misic B
@@ -430,15 +448,6 @@
     display: Cerebral Cortex (2023)
   highlight: 0
 
-- title: "Redefining the connectome: an asymmetric, weighted and signed description of white matter connectivity"
-  image: 
-  description: 
-  authors: Tanner J, Faskowitz J, Teixeira AS, Seguin C, Coletta L, Gozzi A, Misic B, Betzel RF
-  link:
-    url: https://doi.org/10.1101/2022.12.19.519033
-    display: bioRxiv (2022)
-  highlight: 0
-
 - title: "BrainStat: a toolbox for brain-wide statistics and multimodal feature associations"
   image: 
   description:
@@ -713,7 +722,7 @@
 - title: "Standardizing workflows in imaging transcriptomics with the abagen toolbox"
   image: pub_abagen.png
   description: A toolbox for working with imaging transcriptomics data.
-  authors: Markello RD, Arnatkeviciute A, Poline JB, Fulcher BD, Fornito A, Misic B<br/><br/> 
+  authors: Markello RD, Arnatkeviciute A, Poline JB, Fulcher BD, Fornito A, Misic
   link:
     url: https://doi.org/10.7554/eLife.72129
     display: eLife (2021)
