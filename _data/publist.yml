@@ -1,3 +1,12 @@
+- title: "General anaesthesia reduces the uniqueness of brain connectivity across individuals and species"
+  image: 
+  description: 
+  authors: Luppi AI, Golkowski D, Ranft A, Ilg R, Jordan D, Bzdok D, Owen AM, Naci L, Stamatakis EA, Amico E, Misic B
+  link:
+    url: https://doi.org/10.1038/s41562-025-02121-9
+    display: Nature Human Behavior (2025)
+  highlight: 0
+
 - title: "Mapping energy metabolism systems in the human brainn"
   image: 
   description: 
@@ -338,15 +347,6 @@
   link:
     url: https://doi.org/10.1016/j.neuroimage.2023.120481
     display: NeuroImage (2024)
-  highlight: 0
-
-- title: "General anesthesia reduces the uniqueness of brain connectivity across individuals and across species"
-  image: 
-  description: 
-  authors: Luppi AI, Golkowski D, Ranft A, Ilg R, Jordan D, Bzdok D, Owen AM, Naci L, Stamatakis EA, Amico E, Misic B
-  link:
-    url: https://doi.org/10.1101/2023.11.08.566332
-    display: bioRxiv (2023)
   highlight: 0
 
 - title: "Towards a biologically annotated brain connectome"
