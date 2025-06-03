@@ -1,3 +1,12 @@
+- title: "Benchmarking methods for mapping functional connectivity in the brain"
+  image: 
+  description: 
+  authors: Liu ZQ, Luppi AI, Hansen JY, Tian YE, Zalesky A, Yeo BTT, Fulcher BD, Misic B
+  link:
+    url: https://www.nature.com/articles/s41592-025-02704-4
+    display: Nature Methods (2025)
+  highlight: 0
+
 - title: "Brain network dynamics determine tau presence while regional vulnerability governs tau load in Alzheimer’s disease"
   image: 
   description: 
@@ -274,15 +283,6 @@
   authors: Fakhar K, Hadaeghi F, Seguin C, Dixit S, Messe A, Zamora-Lopez G, Misic B, Hilgetag CC
   link:
     url: https://doi.org/10.1101/2024.06.12.598676
-    display: bioRxiv (2024)
-  highlight: 0
-
-- title: "Benchmarking methods for mapping functional connectivity in the brain"
-  image: 
-  description: 
-  authors: Liu ZQ, Luppi AI, Hansen JY, Tian YE, Zalesky A, Yeo BTT, Fulcher BD, Misic B
-  link:
-    url: https://doi.org/10.1101/2024.05.07.593018
     display: bioRxiv (2024)
   highlight: 0
 
