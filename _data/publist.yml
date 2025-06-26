@@ -1113,7 +1113,7 @@
   link:
     url: https://doi.org/10.1073/pnas.1903403116
     display: Proc Natl Acad Sci USA (2019)
-  highlight: 1
+  highlight: 0
 
 - title: "Microstructural and functional gradients are increasingly dissociated in transmodal cortices"
   image:
