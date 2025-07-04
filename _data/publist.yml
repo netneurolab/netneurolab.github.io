@@ -1,3 +1,12 @@
+- title: "Generation of surrogate brain maps preserving spatial autocorrelation through random rotation of geometric eigenmodes"
+  image: 
+  description: 
+  authors: Koussis NC, Pang JC, Jeganathan J, Paton B, Fornito A, Robinson PA, Misic B, Breakspear M
+  link:
+    url: https://doi.org/10.1162/IMAG.a.71
+    display: Imaging Neuroscience (2025)
+  highlight: 0
+
 - title: "Cell-specific mechanisms drive connectivity across the time course of Huntington’s disease"
   image: 
   description: 
@@ -365,15 +374,6 @@
   link:
     url: https://doi.org/10.1038/s41398-024-02810-5
     display: Translational Psychiatry (2024)
-  highlight: 0
-
-- title: "Generation of surrogate brain maps preserving spatial autocorrelation through random rotation of geometric eigenmodes"
-  image: 
-  description: 
-  authors: Koussis NC, Pang JC, Jeganathan J, Paton B, Fornito A, Robinson PA, Misic B, Breakspear M
-  link:
-    url: https://doi.org/10.1101/2024.02.07.5790705
-    display: bioRxiv (2024)
   highlight: 0
 
 - title: "Connectome architecture shapes large-scale cortical alterations in schizophrenia: a worldwide ENIGMA study"
