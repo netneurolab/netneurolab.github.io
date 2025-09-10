@@ -1,3 +1,21 @@
+- title: "Inter-individual variability of neurotransmitter receptor and transporter density in the human brain"
+  image: 
+  description: 
+  authors: Hansen JY, Tuisku J, Johansson J, Chang Z, McGinnity CJ, Beliveau V, Guimond S, Ganz M, Norgaard M, Galovic M, Bezgin G, Cox SML, Hietala J, Leyton M, Kobayashi E, Rosa-Neto P, Funck T, Palomero-Gallagher N, Knudsen GM, Marsden P, Hammers A, Nummenmaa L, Tuominen L, Misic B
+  link:
+    url: https://doi.org/10.1101/2025.09.09.674944
+    display: bioRxiv (2025)
+  highlight: 0
+
+- title: "The effect of spherical projection on spin tests for brain maps"
+  image: 
+  description: 
+  authors: Bazinet V, Liu ZQ, Misic B
+  link:
+    url: https://doi.org/10.1162/IMAG.a.118
+    display: Imaging Neuroscience (2025)
+  highlight: 0
+  
 - title: "Integrating and interpreting brain maps"
   image: 
   description: 
@@ -185,15 +203,6 @@
   link:
     url: https://doi.org/10.1016/j.psychres.2024.116349
     display: Psychiatry Research (2025)
-  highlight: 0
-
-- title: "The effect of spherical projection on spin tests for brain maps"
-  image: 
-  description: 
-  authors: Bazinet V, Liu ZQ, Misic B
-  link:
-    url: https://doi.org/10.1101/2024.12.15.628553
-    display: bioRxiv (2024)
   highlight: 0
 
 - title: "Compressing human brain activity for studying brain function"
