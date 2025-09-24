@@ -1,3 +1,14 @@
+- name: Justine Hansen
+  photo: justine.jpg
+  duration: Post-doc at U Penn
+  info: PhD student
+  email:
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
 - name: Laura Suarez
   photo: laura.jpg
   duration: Research Scientist at Mila Quebec
