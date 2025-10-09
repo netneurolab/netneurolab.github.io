@@ -7,6 +7,24 @@
     display: Nature Methods (2025)
   highlight: 0
 
+- title: "The role of white matter myelin in structural-functional network coupling"
+  image: 
+  description: 
+  authors: Nelson MC, Lu WD, Leppert IR, Hansen HA, Rowley CD, Misic B, Tardif CL
+  link:
+    url: https://doi.org/10.1101/2025.07.24.666667
+    display: bioRxiv (2025)
+  highlight: 0
+
+- title: "Multivariate Resting-State Functional Connectivity Features Linked to Transdiagnostic Psychopathology in Early Psychosis"
+  image: 
+  description: 
+  authors: Wang H, Liu ZQ, Nomi JS, Schleifer CH, Bearden CE, Misic B, Uddin LQ, Karlsgodt KH
+  link:
+    url: https://doi.org/10.1101/2025.06.04.654984
+    display: bioRxiv (2025)
+  highlight: 0
+
 - title: "Integrating direct electrical stimulation with brain connectivity predicts lesion-induced language impairment and recovery"
   image: 
   description: 
