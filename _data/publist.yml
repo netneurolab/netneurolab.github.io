@@ -1,3 +1,12 @@
+- title: "Inter-individual variability of neurotransmitter receptor and transporter density in the human brain"
+  image: 
+  description: 
+  authors: Hansen JY, Tuisku J, Johansson J, Chang Z, McGinnity CJ, Beliveau V, Guimond S, Ganz M, Norgaard M, Galovic M, Bezgin G, Cox SML, Hietala J, Leyton M, Kobayashi E, Rosa-Neto P, Funck T, Palomero-Gallagher N, Knudsen GM, Marsden P, Hammers A, Nummenmaa L, Tuominen L, Misic B
+  link:
+    url: https://doi.org/10.1007/s00429-025-03069-2
+    display: Brain Structure and Function (2026)
+  highlight: 0
+
 - title: "netneurotools: a trainee-oriented approach to network neuroscience"
   image: 
   description: 
@@ -68,15 +77,6 @@
   link:
     url: https://doi.org/10.1038/s43856-025-01121-0
     display: Communications Medicine (2025)
-  highlight: 0
-
-- title: "Inter-individual variability of neurotransmitter receptor and transporter density in the human brain"
-  image: 
-  description: 
-  authors: Hansen JY, Tuisku J, Johansson J, Chang Z, McGinnity CJ, Beliveau V, Guimond S, Ganz M, Norgaard M, Galovic M, Bezgin G, Cox SML, Hietala J, Leyton M, Kobayashi E, Rosa-Neto P, Funck T, Palomero-Gallagher N, Knudsen GM, Marsden P, Hammers A, Nummenmaa L, Tuominen L, Misic B
-  link:
-    url: https://doi.org/10.1101/2025.09.09.674944
-    display: bioRxiv (2025)
   highlight: 0
 
 - title: "The effect of spherical projection on spin tests for brain maps"
