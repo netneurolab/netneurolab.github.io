@@ -1,3 +1,12 @@
+- title: "Synapse types are spatially associated with regional hemodynamics in the mouse brain"
+  image: 
+  description: 
+  authors: Hansen JY, Luppi AI, Liu ZQ, Gini S, Fulcher BD, Gozzi A, Grant SGN, Misic B
+  link:
+    url: https://doi.org/10.1371/journal.pbio.3003637
+    display: PLoS Biology (2026)
+  highlight: 0
+
 - title: "Five energy metabolism pathways show distinct regional distributions and lifespan trajectories in the human brain"
   image: 
   description: 
@@ -248,15 +257,6 @@
   link:
     url: https://www.science.org/doi/10.1126/sciadv.ads6967
     display: Science Advances (2025)
-  highlight: 0
-
-- title: "Synaptome architecture shapes regional dynamics in the mouse brain"
-  image: 
-  description: 
-  authors: Hansen JY, Luppi AI, Liu ZQ, Gini S, Fulcher BD, Gozzi A, Grant SGN, Misic B
-  link:
-    url: https://doi.org/10.1101/2025.01.24.634803
-    display: bioRxiv (2025)
   highlight: 0
 
 - title: "Atrophy in multiple system atrophy relates to mitochondrial and oligodendrocytic processes"
