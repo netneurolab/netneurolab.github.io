@@ -9,16 +9,6 @@
   education4:
   education5:
 
-- name: Zhen-Qi Liu
-  photo: zhen-qi.jpg
-  info: FRQNT PhD student
-  email: zhenqi.liu@mail.mcgill.ca
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-
 - name: Vincent Bazinet
   photo: vince.jpg
   info: NSERC PhD student
@@ -49,14 +39,14 @@
   
 - name: Eric Ceballos
   photo: eric.jpg
-  info: FRQNT PhD student
+  info: NSERC PhD student
   email: eric.ceballosdominguez@mail.mcgill.ca
   number_educ: 0
   education1:
 
 - name: Asa Farahani
   photo: asa.JPG
-  info: PhD student
+  info: FRQNT PhD student
   email: asa.borzabadifarahani@mail.mcgill.ca
   number_educ: 0
   education1: 
@@ -66,7 +56,7 @@
 
 - name: Yigu Zhou
   photo: yigu.jpg
-  info: MD-PhD student
+  info: NSERC MD-PhD student
   email: yigu.zhou@mail.mcgill.ca
   number_educ: 0
   education1: 
