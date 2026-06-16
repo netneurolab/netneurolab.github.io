@@ -1,9 +1,27 @@
+- title: "Aging and metabolism contribute separately to brain–body health"
+  image: 
+  description: 
+  authors: Farahani A, Liu ZQ, Morys F, Moqadam R, Zeighami Y, Dadar M, Dagher A, Misic B
+  link:
+    url: https://doi.org/10.1371/journal.pbio.3003856
+    display: PLoS Biology (2026)
+  highlight: 0
+
 - title: "Benchmarking spatial interpolation methods for brain maps"
   image: 
   description: 
   authors: Zhou Y, Bazinet V, Misic B
   link:
     url: https://doi.org/10.64898/2026.04.27.721143
+    display: bioRxiv (2026)
+  highlight: 0
+
+- title: "The blueprint of human functional architecture shifts from cognition to anatomy during perturbations of consciousness"
+  image: 
+  description: 
+  authors: Luppi AI, ... , Misic B
+  link:
+    url: https://doi.org/10.64898/2026.06.07.730661
     display: bioRxiv (2026)
   highlight: 0
 
@@ -140,15 +158,6 @@
   link:
     url: https://doi.org/10.1016/j.biopsych.2025.10.024
     display: Biological Psychiatry (2025)
-  highlight: 0
-
-- title: "Joint multi-omics profiling of brain and body health in aging"
-  image: 
-  description: 
-  authors: Farahani A, Liu ZQ, Morys F, Moqadam R, Zeighami Y, Dadar M, Dagher A, Misic B
-  link:
-    url: https://doi.org/10.1101/2025.10.09.681483
-    display: bioRxiv (2025)
   highlight: 0
 
 - title: "HippoMaps: multiscale cartography of human hippocampal organization"
