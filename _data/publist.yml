@@ -1,3 +1,12 @@
+- title: "netneurotools: a trainee-oriented approach to network neuroscience"
+  image: 
+  description: 
+  authors: Liu ZQ, Bazinet V, Hansen JY, Milisav F, Luppi AI, Ceballos EG, Farahani A, Suarez LE, Shafiei G, Markello RD, Misic B
+  link:
+    url: https://doi.org/10.1038/s41596-026-01446-7
+    display: Nature Protocols (2026)
+  highlight: 0
+
 - title: "In vivo and in silico alpha-synuclein propagation dynamics: the role of genotype, epicentre, and connectivity"
   image: 
   description: 
@@ -149,15 +158,6 @@
   link:
     url: https://doi.org/10.1007/s00429-025-03069-2
     display: Brain Structure and Function (2026)
-  highlight: 0
-
-- title: "netneurotools: a trainee-oriented approach to network neuroscience"
-  image: 
-  description: 
-  authors: Liu ZQ, Bazinet V, Hansen JY, Milisav F, Luppi AI, Ceballos EG, Farahani A, Suarez LE, Shafiei G, Markello RD, Misic B
-  link:
-    url: https://doi.org/10.1101/2025.09.09.675160
-    display: bioRxiv (2025)
   highlight: 0
 
 - title: "Hierarchical community structure of the adult drosophila connectome reveals conserved circuit archetypes"
