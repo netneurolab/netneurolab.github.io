@@ -1,3 +1,12 @@
+- title: "SSpatial organization of AQP4 water channel expression in the human brain"
+  image: 
+  description: 
+  authors: Taheri T, Farahani A, Liu ZQ, Ceballos EG, Harroud A, Dagher A, Misic B
+  link:
+    url: https://doi.org/10.1126/sciadv.aeg8117
+    display: Science Advances (2026)
+  highlight: 0
+
 - title: "netneurotools: a trainee-oriented approach to network neuroscience"
   image: 
   description: 
@@ -113,15 +122,6 @@
   link:
     url: https://doi.org/10.1371/journal.pcsy.0000091
     display: PLoS Complex Systems (2026)
-  highlight: 0
-
-- title: "Spatial organization of AQP4 channels in the human brain: links with perfusion, edema, and disease vulnerability"
-  image: 
-  description: 
-  authors: Taheri T, Farahani A, Liu ZQ, Ceballos EG, Harroud A, Dagher A, Misic B
-  link:
-    url: https://doi.org/10.64898/2026.02.18.706679
-    display: bioRxiv (2026)
   highlight: 0
 
 - title: "Synapse types are spatially associated with regional hemodynamics in the mouse brain"
